@@ -1,0 +1,16 @@
+{
+    "test_mode": true,
+    
+    "live_url": "https://cloud.iexapis.com",
+    "test_url": "https://sandbox.iexapis.com",
+
+    "version": "beta",
+    
+    "token_template": "?token=",    
+    "publishable_token": "",
+    "test_publishable_token": "",
+
+    "cache_company": 31536000,
+    "cache_key_stats": 2627424,
+    "cache_quote": 86400
+}
