@@ -1,314 +1,362 @@
-{
-    "KO": {
+[
+    {
         "last_update": "April 17, 2019 - 8:31 pm",
         "company_name": "The Coca-Cola Co.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 31.52,
+        "ttm_eps": 1.5,
         "dividend": {
             "ttm_rate": 1.56,
             "yield": "3.32%",
             "next_date": null,
-            "ex_date": "2019-03-14"
+            "ex_date": "2019-03-14",
+            "payout_ratio": 104
         },
         "latest_price": 47.28
     },
-    "FRT": {
+    {
         "last_update": "April 17, 2019 - 8:34 pm",
         "company_name": "Federal Realty Investment Trust",
         "sector": "Finance",
         "pe_ratio": 43.42,
+        "ttm_eps": 3.0171,
         "dividend": {
             "ttm_rate": 4.04,
             "yield": "3.05%",
             "next_date": null,
-            "ex_date": "2019-03-13"
+            "ex_date": "2019-03-13",
+            "payout_ratio": 133.9
         },
         "latest_price": 131.01
     },
-    "NWN": {
+    {
         "last_update": "April 17, 2019 - 8:34 pm",
         "company_name": "Northwest Natural Holding Co.",
         "sector": "Utilities",
         "pe_ratio": 29.01,
+        "ttm_eps": 2.2424,
         "dividend": {
             "ttm_rate": 1.8925,
             "yield": "2.9%",
             "next_date": "2019-04-29",
-            "ex_date": "2019-04-29"
+            "ex_date": "2019-04-29",
+            "payout_ratio": 84.4
         },
         "latest_price": 65.05
     },
-    "EMR": {
+    {
         "last_update": "April 17, 2019 - 8:33 pm",
         "company_name": "Emerson Electric Co.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 20,
+        "ttm_eps": 3.6159,
         "dividend": {
             "ttm_rate": 1.945,
             "yield": "2.69%",
             "next_date": null,
-            "ex_date": "2019-02-14"
+            "ex_date": "2019-02-14",
+            "payout_ratio": 53.79
         },
         "latest_price": 72.31
     },
-    "PG": {
+    {
         "last_update": "April 17, 2019 - 8:31 pm",
         "company_name": "Procter & Gamble Co.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 25.14,
+        "ttm_eps": 4.21,
         "dividend": {
             "ttm_rate": 2.8412,
             "yield": "2.67%",
             "next_date": "2019-04-18",
-            "ex_date": "2019-04-18"
+            "ex_date": "2019-04-18",
+            "payout_ratio": 67.49
         },
         "latest_price": 105.85
     },
-    "JNJ": {
+    {
         "last_update": "April 17, 2019 - 8:32 pm",
         "company_name": "Johnson & Johnson",
         "sector": "Health Technology",
         "pe_ratio": 24.34,
+        "ttm_eps": 5.69,
         "dividend": {
             "ttm_rate": 3.54,
             "yield": "2.56%",
             "next_date": null,
-            "ex_date": "2019-02-25"
+            "ex_date": "2019-02-25",
+            "payout_ratio": 62.21
         },
         "latest_price": 138.52
     },
-    "GPC": {
+    {
         "last_update": "April 17, 2019 - 8:31 pm",
         "company_name": "Genuine Parts Co.",
         "sector": "Distribution Services",
         "pe_ratio": 20.38,
+        "ttm_eps": 5.5253,
         "dividend": {
             "ttm_rate": 2.88,
             "yield": "2.55%",
             "next_date": null,
-            "ex_date": "2019-03-07"
+            "ex_date": "2019-03-07",
+            "payout_ratio": 52.12
         },
         "latest_price": 112.58
     },
-    "MMM": {
+    {
         "last_update": "April 17, 2019 - 8:32 pm",
         "company_name": "3M Co.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 23.9,
+        "ttm_eps": 9.1049,
         "dividend": {
             "ttm_rate": 5.44,
             "yield": "2.51%",
             "next_date": null,
-            "ex_date": "2019-02-14"
+            "ex_date": "2019-02-14",
+            "payout_ratio": 59.75
         },
         "latest_price": 217.64
     },
-    "CINF": {
+    {
         "last_update": "April 17, 2019 - 8:32 pm",
         "company_name": "Cincinnati Financial Corp.",
         "sector": "Finance",
         "pe_ratio": 49.13,
+        "ttm_eps": 1.76,
         "dividend": {
             "ttm_rate": 2.12,
             "yield": "2.42%",
             "next_date": null,
-            "ex_date": "2019-03-19"
+            "ex_date": "2019-03-19",
+            "payout_ratio": 120.45
         },
         "latest_price": 86.47
     },
-    "CL": {
+    {
         "last_update": "April 17, 2019 - 8:31 pm",
         "company_name": "Colgate-Palmolive Co.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 24.97,
+        "ttm_eps": 2.75,
         "dividend": {
             "ttm_rate": 1.66,
             "yield": "2.4%",
             "next_date": "2019-04-18",
-            "ex_date": "2019-04-18"
+            "ex_date": "2019-04-18",
+            "payout_ratio": 60.36
         },
         "latest_price": 68.68
     },
-    "DOV": {
+    {
         "last_update": "April 17, 2019 - 8:33 pm",
         "company_name": "Dover Corp.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 25.41,
+        "ttm_eps": 3.81,
         "dividend": {
             "ttm_rate": 1.9,
             "yield": "1.95%",
             "next_date": null,
-            "ex_date": "2019-02-27"
+            "ex_date": "2019-02-27",
+            "payout_ratio": 49.87
         },
         "latest_price": 96.8
     },
-    "ABM": {
+    {
         "last_update": "April 17, 2019 - 8:33 pm",
         "company_name": "ABM Industries, Inc.",
         "sector": "Commercial Services",
         "pe_ratio": 29.48,
+        "ttm_eps": 1.2521,
         "dividend": {
             "ttm_rate": 0.705,
             "yield": "1.9%",
             "next_date": null,
-            "ex_date": "2019-04-03"
+            "ex_date": "2019-04-03",
+            "payout_ratio": 56.31
         },
         "latest_price": 36.91
     },
-    "HRL": {
+    {
         "last_update": "April 17, 2019 - 8:31 pm",
         "company_name": "Hormel Foods Corp.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 22.75,
+        "ttm_eps": 1.79,
         "dividend": {
             "ttm_rate": 0.7725,
             "yield": "1.89%",
             "next_date": null,
-            "ex_date": "2019-04-12"
+            "ex_date": "2019-04-12",
+            "payout_ratio": 43.16
         },
         "latest_price": 40.72
     },
-    "SJW": {
+    {
         "last_update": "April 17, 2019 - 8:34 pm",
         "company_name": "SJW Group",
         "sector": "Utilities",
         "pe_ratio": 32.74,
+        "ttm_eps": 1.8452,
         "dividend": {
             "ttm_rate": 1.12,
             "yield": "1.85%",
             "next_date": null,
-            "ex_date": "2019-02-08"
+            "ex_date": "2019-02-08",
+            "payout_ratio": 60.7
         },
         "latest_price": 60.42
     },
-    "SWK": {
+    {
         "last_update": "April 17, 2019 - 8:33 pm",
         "company_name": "Stanley Black & Decker, Inc.",
         "sector": "Consumer Durables",
         "pe_ratio": 33.57,
+        "ttm_eps": 4.308,
         "dividend": {
             "ttm_rate": 2.58,
             "yield": "1.77%",
             "next_date": null,
-            "ex_date": "2019-03-04"
+            "ex_date": "2019-03-04",
+            "payout_ratio": 59.89
         },
         "latest_price": 144.62
     },
-    "LOW": {
+    {
         "last_update": "April 17, 2019 - 8:31 pm",
         "company_name": "Lowe's Cos., Inc.",
         "sector": "Retail Trade",
         "pe_ratio": 41.75,
+        "ttm_eps": 2.805,
         "dividend": {
             "ttm_rate": 1.85,
             "yield": "1.58%",
             "next_date": "2019-04-23",
-            "ex_date": "2019-04-23"
+            "ex_date": "2019-04-23",
+            "payout_ratio": 65.95
         },
         "latest_price": 117.12
     },
-    "PH": {
-        "last_update": "April 17, 2019 - 8:34 pm",
-        "company_name": "Parker-Hannifin Corp.",
-        "sector": "Producer Manufacturing",
-        "pe_ratio": 17.68,
-        "dividend": {
-            "ttm_rate": 2.94,
-            "yield": "1.56%",
-            "next_date": null,
-            "ex_date": "2019-02-07"
-        },
-        "latest_price": 188.15
-    },
-    "AWR": {
+    {
         "last_update": "April 17, 2019 - 8:34 pm",
         "company_name": "American States Water Co.",
         "sector": "Utilities",
         "pe_ratio": 39.61,
+        "ttm_eps": 1.7246,
         "dividend": {
             "ttm_rate": 1.06,
             "yield": "1.56%",
             "next_date": null,
-            "ex_date": "2019-02-14"
+            "ex_date": "2019-02-14",
+            "payout_ratio": 61.46
         },
         "latest_price": 68.32
     },
-    "LANC": {
+    {
+        "last_update": "April 17, 2019 - 8:34 pm",
+        "company_name": "Parker-Hannifin Corp.",
+        "sector": "Producer Manufacturing",
+        "pe_ratio": 17.68,
+        "ttm_eps": 10.641,
+        "dividend": {
+            "ttm_rate": 2.94,
+            "yield": "1.56%",
+            "next_date": null,
+            "ex_date": "2019-02-07",
+            "payout_ratio": 27.63
+        },
+        "latest_price": 188.15
+    },
+    {
         "last_update": "April 17, 2019 - 8:31 pm",
         "company_name": "Lancaster Colony Corp.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 28.82,
+        "ttm_eps": 5.3527,
         "dividend": {
             "ttm_rate": 2.45,
             "yield": "1.55%",
             "next_date": null,
-            "ex_date": "2019-03-07"
+            "ex_date": "2019-03-07",
+            "payout_ratio": 45.77
         },
         "latest_price": 154.24
     },
-    "CWT": {
+    {
         "last_update": "April 17, 2019 - 8:34 pm",
         "company_name": "California Water Service Group",
         "sector": "Utilities",
         "pe_ratio": 39.38,
+        "ttm_eps": 1.2551,
         "dividend": {
             "ttm_rate": 0.75,
             "yield": "1.51%",
             "next_date": null,
-            "ex_date": "2019-02-08"
+            "ex_date": "2019-02-08",
+            "payout_ratio": 59.76
         },
         "latest_price": 49.43
     },
-    "SCL": {
+    {
         "last_update": "April 17, 2019 - 8:34 pm",
         "company_name": "Stepan Co.",
         "sector": "Process Industries",
         "pe_ratio": 18.44,
+        "ttm_eps": 4.8966,
         "dividend": {
             "ttm_rate": 0.925,
             "yield": "1.02%",
             "next_date": null,
-            "ex_date": "2019-03-01"
+            "ex_date": "2019-03-01",
+            "payout_ratio": 18.89
         },
         "latest_price": 90.27
     },
-    "NDSN": {
+    {
         "last_update": "April 17, 2019 - 8:33 pm",
         "company_name": "Nordson Corp.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 26.09,
+        "ttm_eps": 5.5344,
         "dividend": {
             "ttm_rate": 1.3,
             "yield": "0.9%",
             "next_date": null,
-            "ex_date": "2019-02-25"
+            "ex_date": "2019-02-25",
+            "payout_ratio": 23.49
         },
         "latest_price": 144.38
     },
-    "TR": {
+    {
         "last_update": "April 17, 2019 - 8:31 pm",
         "company_name": "Tootsie Roll Industries, Inc.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 45.4,
+        "ttm_eps": 0.8611,
         "dividend": {
             "ttm_rate": 0.34697,
             "yield": "0.89%",
             "next_date": null,
-            "ex_date": null
+            "ex_date": null,
+            "payout_ratio": 40.29
         },
         "latest_price": 39.09
     },
-    "VVC": {
+    {
         "last_update": "April 17, 2019 - 8:34 pm",
         "company_name": "Vectren Corporation",
         "sector": "Utilities",
         "pe_ratio": null,
+        "ttm_eps": null,
         "dividend": {
             "ttm_rate": null,
             "yield": "0%",
             "next_date": "0000-00-00",
-            "ex_date": "2019-02-13"
+            "ex_date": "2019-02-13",
+            "payout_ratio": null
         },
         "latest_price": 72.38
     }
-}
+]

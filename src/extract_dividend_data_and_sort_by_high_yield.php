@@ -8,48 +8,58 @@ include_once $tools_dir . DIRECTORY_SEPARATOR . 'cli-progress-bar.php';
 include_once $tools_dir . DIRECTORY_SEPARATOR . 'file-methods.php';
 include_once $tools_dir . DIRECTORY_SEPARATOR . 'normalize-data.php';
 
-$details = get_json_file($data_dir . DIRECTORY_SEPARATOR . 'details.json');
+include_once __DIR__ . DIRECTORY_SEPARATOR . 'components' . DIRECTORY_SEPARATOR . 'Details.php';
+
+$details = new Details(get_json_file($data_dir . DIRECTORY_SEPARATOR . 'details.json'));
 
 foreach ($tickerNameList as $tickerName) {
     $tickers = get_json_file($config_dir . DIRECTORY_SEPARATOR . "{$tickerName}.json");
 
-    $data = array_filter($details, function ($ticker) use ($tickers) {
-        return false !== array_search($ticker, $tickers);
-    }, ARRAY_FILTER_USE_KEY);
+    $data = array_map(function ($ticker) use ($details) {
+        $o = new stdClass();
+
+        $o->last_update = date("F j, Y - g:i a", $details->getSection($ticker, 'last_quote_update'));
+
+        // company
+        $o->company_name = $details->getProperty($ticker, 'company', 'companyName');
+        $o->sector = $details->getProperty($ticker, 'company', 'sector');
+
+        // key stats
+        $o->pe_ratio = $details->getProperty($ticker, 'key_stats', 'peRatio');
+        $o->ttm_eps = $details->getProperty($ticker, 'key_stats', 'ttmEPS');
+
+        $o->dividend = new stdClass();
+        $o->dividend->ttm_rate = $details->getProperty($ticker, 'key_stats', 'ttmDividendRate');
+        $o->dividend->yield = round(100 * $details->getProperty($ticker, 'key_stats', 'dividendYield'), 2) . '%';
+        $o->dividend->next_date = $details->getProperty($ticker, 'key_stats', 'nextDividendDate');
+        $o->dividend->ex_date = $details->getProperty($ticker, 'key_stats', 'exDividendDate');
+
+        // calculate payout ratio
+        $ttmDividendRate = $o->dividend->ttm_rate;
+        $ttmEps = $o->ttm_eps;
+        if(!empty($ttmEps) && !empty($ttmDividendRate)){
+            $o->dividend->payout_ratio = round(100 * ($ttmDividendRate / $ttmEps), 2);
+        } else {
+            $o->dividend->payout_ratio = null;
+        }
+
+        // quote
+        $o->latest_price = $details->getProperty($ticker, 'quote', 'latestPrice');
+
+        return $o;
+    }, $tickers);
 
     uasort($data, function ($a, $b) {
-        $a_div_yield = $a['key_stats']['dividendYield'];
-        $b_div_yield = $b['key_stats']['dividendYield'];
+        $a_div_yield = $a->dividend->yield;
+        $b_div_yield = $b->dividend->yield;
         if ($a_div_yield == $b_div_yield) {
             return 0;
         }
         return ($b_div_yield < $a_div_yield) ? -1 : 1;
     });
 
-    $data = array_map(function ($ticker_details) {
-        $o = array();
-
-        $o['last_update'] = date("F j, Y - g:i a", $ticker_details['last_quote_update']);
-
-        // company
-        $o['company_name'] = $ticker_details['company']['companyName'];
-        $o['sector'] = $ticker_details['company']['sector'];
-
-        // key stats
-        $o['pe_ratio'] = $ticker_details['key_stats']['peRatio'];
-        $o['dividend'] = array(
-            'ttm_rate' => array_key_exists('ttmDividendRate', $ticker_details['key_stats'])? $ticker_details['key_stats']['ttmDividendRate'] : null,
-            'yield' => array_key_exists('dividendYield', $ticker_details['key_stats'])? round(100 * $ticker_details['key_stats']['dividendYield'], 2) . '%' : null,
-            'next_date' => array_key_exists('nextDividendDate', $ticker_details['key_stats'])? $ticker_details['key_stats']['nextDividendDate'] : null,
-            'ex_date' => array_key_exists('exDividendDate', $ticker_details['key_stats'])? $ticker_details['key_stats']['exDividendDate'] : null,
-        );
-
-        // quote
-        $o['latest_price'] = $ticker_details['quote']['latestPrice'];
-
-        return $o;
-    }, $data);
-
+    $data = array_values($data);
+    
     $tickerName = str_replace('_tickers', '', $tickerName);
 
     set_json_file($data_dir . DIRECTORY_SEPARATOR . "sort_by_high_dividend_yield_{$tickerName}.json", $data);

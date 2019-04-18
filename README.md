@@ -69,6 +69,12 @@ Using our default cache settings, using our update scripts every day, data weigh
 
 <hr>
 
+<h2>Configuration</h2>
+
+Copy `config/iex_api_config.example.json` to `config/iex_api_config.json`. Make sure to set your IEX publishable test key and live key.
+
+<hr>
+
 <h2>Update List</h2>
 
 To update all lists, you can run the following command
