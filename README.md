@@ -18,21 +18,6 @@ Here are each list with their descriptions.
 
 <hr>
 
-<h2>Setup Requirements</h2>
-
-<ol>
-    <li>
-        FREE IEX Cloud Account at <a href="https://iexcloud.io" target="_blank">https://iexcloud.io</a>
-    </li>
-    <li>
-        PHP 7+ must be install on your Windows, Linux or OSX computer.
-    </li>
-</ol>
-
-<small>IEX Cloud gives you FREE 500,000 messages per month.</small>
-
-<hr>
-
 <h2>API Data Weighting Usage</h2>
 
 Using our default cache settings, using our update scripts every day, data weight usage is calculated at 22,392 per month.
@@ -66,6 +51,21 @@ Using our default cache settings, using our update scripts every day, data weigh
 </ul>
 
 <small>Note: cache settings can be changed by editing the `iex_api_config.json` file located in the `config` folder. Each value is in seconds.</small>
+
+<hr>
+
+<h2>Setup Requirements</h2>
+
+<ol>
+    <li>
+        FREE IEX Cloud Account at <a href="https://iexcloud.io" target="_blank">https://iexcloud.io</a>
+    </li>
+    <li>
+        PHP 7+ must be install on your Windows, Linux or OSX computer.
+    </li>
+</ol>
+
+<small>IEX Cloud gives you FREE 500,000 messages per month.</small>
 
 <hr>
 
