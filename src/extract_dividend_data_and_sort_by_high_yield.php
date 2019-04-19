@@ -24,8 +24,11 @@ foreach ($tickerNameList as $tickerName) {
         $o->company_name = $details->getProperty($ticker, 'company', 'companyName');
         $o->sector = $details->getProperty($ticker, 'company', 'sector');
 
-        // key stats
-        $o->pe_ratio = $details->getProperty($ticker, 'key_stats', 'peRatio');
+        // quote
+        $o->latest_price = $details->getProperty($ticker, 'quote', 'latestPrice');
+        $o->pe_ratio = $details->getProperty($ticker, 'quote', 'peRatio');
+
+        // key stats        
         $o->ttm_eps = $details->getProperty($ticker, 'key_stats', 'ttmEPS');
 
         $o->dividend = new stdClass();
@@ -37,14 +40,7 @@ foreach ($tickerNameList as $tickerName) {
         // calculate payout ratio
         $ttmDividendRate = $o->dividend->ttm_rate;
         $ttmEps = $o->ttm_eps;
-        if(!empty($ttmEps) && !empty($ttmDividendRate)){
-            $o->dividend->payout_ratio = round(100 * ($ttmDividendRate / $ttmEps), 2);
-        } else {
-            $o->dividend->payout_ratio = null;
-        }
-
-        // quote
-        $o->latest_price = $details->getProperty($ticker, 'quote', 'latestPrice');
+        $o->dividend->payout_ratio = !empty($ttmEps) && !empty($ttmDividendRate)? round(100 * ($ttmDividendRate / $ttmEps), 2) : null;
 
         return $o;
     }, $tickers);
