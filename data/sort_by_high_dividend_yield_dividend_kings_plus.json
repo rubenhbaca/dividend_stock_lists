@@ -1,6 +1,6 @@
 [
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "The Coca-Cola Co.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 31.52,
@@ -12,10 +12,10 @@
             "ex_date": "2019-03-14",
             "payout_ratio": 104
         },
-        "latest_price": 47.28
+        "latest_price": 48.3
     },
     {
-        "last_update": "April 17, 2019 - 8:33 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Emerson Electric Co.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 20,
@@ -27,10 +27,10 @@
             "ex_date": "2019-02-14",
             "payout_ratio": 53.79
         },
-        "latest_price": 72.31
+        "latest_price": 74.34
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Procter & Gamble Co.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 25.14,
@@ -42,10 +42,10 @@
             "ex_date": "2019-04-18",
             "payout_ratio": 67.49
         },
-        "latest_price": 105.85
+        "latest_price": 111.06
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Johnson & Johnson",
         "sector": "Health Technology",
         "pe_ratio": 24.34,
@@ -57,10 +57,10 @@
             "ex_date": "2019-02-25",
             "payout_ratio": 62.21
         },
-        "latest_price": 138.52
+        "latest_price": 143.22
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Genuine Parts Co.",
         "sector": "Distribution Services",
         "pe_ratio": 20.38,
@@ -72,10 +72,10 @@
             "ex_date": "2019-03-07",
             "payout_ratio": 52.12
         },
-        "latest_price": 112.58
+        "latest_price": 108.76
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "3M Co.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 23.9,
@@ -87,10 +87,10 @@
             "ex_date": "2019-02-14",
             "payout_ratio": 59.75
         },
-        "latest_price": 217.64
+        "latest_price": 227.86
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Cincinnati Financial Corp.",
         "sector": "Finance",
         "pe_ratio": 49.13,
@@ -102,10 +102,10 @@
             "ex_date": "2019-03-19",
             "payout_ratio": 120.45
         },
-        "latest_price": 86.47
+        "latest_price": 90.4
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Colgate-Palmolive Co.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 24.97,
@@ -117,10 +117,10 @@
             "ex_date": "2019-04-18",
             "payout_ratio": 60.36
         },
-        "latest_price": 68.68
+        "latest_price": 71.44
     },
     {
-        "last_update": "April 17, 2019 - 8:33 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Illinois Tool Works, Inc.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 20.41,
@@ -132,10 +132,10 @@
             "ex_date": "2019-03-28",
             "payout_ratio": 46.54
         },
-        "latest_price": 156.15
+        "latest_price": 166.23
     },
     {
-        "last_update": "April 17, 2019 - 8:33 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Dover Corp.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 25.41,
@@ -147,10 +147,10 @@
             "ex_date": "2019-02-27",
             "payout_ratio": 49.87
         },
-        "latest_price": 96.8
+        "latest_price": 101.69
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Lowe's Cos., Inc.",
         "sector": "Retail Trade",
         "pe_ratio": 41.75,
@@ -162,6 +162,6 @@
             "ex_date": "2019-04-23",
             "payout_ratio": 65.95
         },
-        "latest_price": 117.12
+        "latest_price": 114.9
     }
 ]

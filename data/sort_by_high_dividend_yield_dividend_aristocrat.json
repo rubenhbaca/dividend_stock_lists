@@ -1,6 +1,6 @@
 [
     {
-        "last_update": "April 17, 2019 - 8:28 pm",
+        "last_update": "April 19, 2019 - 12:48 am",
         "company_name": "AT&T, Inc.",
         "sector": "Communications",
         "pe_ratio": 11.08,
@@ -12,10 +12,10 @@
             "ex_date": "2019-04-09",
             "payout_ratio": 69.73
         },
-        "latest_price": 31.95
+        "latest_price": 32.93
     },
     {
-        "last_update": "April 17, 2019 - 8:26 pm",
+        "last_update": "April 19, 2019 - 12:48 am",
         "company_name": "AbbVie, Inc.",
         "sector": "Health Technology",
         "pe_ratio": 21.78,
@@ -27,10 +27,10 @@
             "ex_date": "2019-04-12",
             "payout_ratio": 110.34
         },
-        "latest_price": 77.98
+        "latest_price": 78.71
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Cardinal Health, Inc.",
         "sector": "Distribution Services",
         "pe_ratio": -647.62,
@@ -42,10 +42,10 @@
             "ex_date": "2019-03-29",
             "payout_ratio": -2729.15
         },
-        "latest_price": 44.88
+        "latest_price": 48
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "People's United Financial, Inc.",
         "sector": "Finance",
         "pe_ratio": 13.33,
@@ -57,10 +57,10 @@
             "ex_date": "2019-01-31",
             "payout_ratio": 53.65
         },
-        "latest_price": 17.33
+        "latest_price": 17.86
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Exxon Mobil Corp.",
         "sector": "Energy Minerals",
         "pe_ratio": 16.69,
@@ -72,10 +72,10 @@
             "ex_date": "2019-02-08",
             "payout_ratio": 66.19
         },
-        "latest_price": 81.43
+        "latest_price": 84.98
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Chevron Corp.",
         "sector": "Energy Minerals",
         "pe_ratio": 15.4,
@@ -87,10 +87,10 @@
             "ex_date": "2019-02-14",
             "payout_ratio": 57.36
         },
-        "latest_price": 120.27
+        "latest_price": 121.77
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Leggett & Platt, Inc.",
         "sector": "Consumer Durables",
         "pe_ratio": 19.01,
@@ -102,10 +102,10 @@
             "ex_date": "2019-03-14",
             "payout_ratio": 65.84
         },
-        "latest_price": 43.31
+        "latest_price": 43.83
     },
     {
-        "last_update": "April 17, 2019 - 8:34 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Consolidated Edison, Inc.",
         "sector": "Utilities",
         "pe_ratio": 18.92,
@@ -117,10 +117,10 @@
             "ex_date": "2019-02-12",
             "payout_ratio": 64.49
         },
-        "latest_price": 83.9
+        "latest_price": 83.67
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "The Coca-Cola Co.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 31.52,
@@ -132,10 +132,10 @@
             "ex_date": "2019-03-14",
             "payout_ratio": 104
         },
-        "latest_price": 47.28
+        "latest_price": 48.3
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Kimberly-Clark Corp.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 30.41,
@@ -147,10 +147,10 @@
             "ex_date": "2019-03-07",
             "payout_ratio": 98.52
         },
-        "latest_price": 123.45
+        "latest_price": 124.18
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Walgreens Boots Alliance, Inc.",
         "sector": "Retail Trade",
         "pe_ratio": 10.35,
@@ -162,10 +162,10 @@
             "ex_date": "2019-02-14",
             "payout_ratio": 32.27
         },
-        "latest_price": 55.14
+        "latest_price": 55.24
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Archer-Daniels-Midland Co.",
         "sector": "Process Industries",
         "pe_ratio": 13.4,
@@ -177,10 +177,10 @@
             "ex_date": "2019-02-15",
             "payout_ratio": 41.72
         },
-        "latest_price": 43.04
+        "latest_price": 44.32
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Target Corp.",
         "sector": "Retail Trade",
         "pe_ratio": 14.87,
@@ -192,10 +192,10 @@
             "ex_date": "2019-05-14",
             "payout_ratio": 45.69
         },
-        "latest_price": 82.68
+        "latest_price": 86.15
     },
     {
-        "last_update": "April 17, 2019 - 8:34 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Federal Realty Investment Trust",
         "sector": "Finance",
         "pe_ratio": 43.42,
@@ -207,10 +207,10 @@
             "ex_date": "2019-03-13",
             "payout_ratio": 133.9
         },
-        "latest_price": 131.01
+        "latest_price": 138.6
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "PepsiCo, Inc.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 14.35,
@@ -222,10 +222,10 @@
             "ex_date": "2019-02-28",
             "payout_ratio": 40.54
         },
-        "latest_price": 127.01
+        "latest_price": 130.76
     },
     {
-        "last_update": "April 17, 2019 - 8:33 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Emerson Electric Co.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 20,
@@ -237,10 +237,10 @@
             "ex_date": "2019-02-14",
             "payout_ratio": 53.79
         },
-        "latest_price": 72.31
+        "latest_price": 74.34
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Franklin Resources, Inc.",
         "sector": "Finance",
         "pe_ratio": 11.69,
@@ -252,10 +252,10 @@
             "ex_date": "2019-03-28",
             "payout_ratio": 31.25
         },
-        "latest_price": 35.55
+        "latest_price": 36.3
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Procter & Gamble Co.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 25.14,
@@ -267,10 +267,10 @@
             "ex_date": "2019-04-18",
             "payout_ratio": 67.49
         },
-        "latest_price": 105.85
+        "latest_price": 111.06
     },
     {
-        "last_update": "April 17, 2019 - 8:34 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Nucor Corp.",
         "sector": "Non-Energy Minerals",
         "pe_ratio": 7.77,
@@ -282,10 +282,10 @@
             "ex_date": "2019-03-28",
             "payout_ratio": 20.64
         },
-        "latest_price": 58
+        "latest_price": 60
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "T. Rowe Price Group, Inc.",
         "sector": "Finance",
         "pe_ratio": 14.36,
@@ -297,10 +297,10 @@
             "ex_date": "2019-03-14",
             "payout_ratio": 37.89
         },
-        "latest_price": 106.09
+        "latest_price": 108.1
     },
     {
-        "last_update": "April 17, 2019 - 8:34 pm",
+        "last_update": "April 19, 2019 - 12:51 am",
         "company_name": "Pentair Plc",
         "sector": "Producer Manufacturing",
         "pe_ratio": 19.43,
@@ -312,10 +312,10 @@
             "ex_date": "2019-04-18",
             "payout_ratio": 53.2
         },
-        "latest_price": 38.35
+        "latest_price": 39.78
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Johnson & Johnson",
         "sector": "Health Technology",
         "pe_ratio": 24.34,
@@ -327,10 +327,10 @@
             "ex_date": "2019-02-25",
             "payout_ratio": 62.21
         },
-        "latest_price": 138.52
+        "latest_price": 143.22
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Genuine Parts Co.",
         "sector": "Distribution Services",
         "pe_ratio": 20.38,
@@ -342,10 +342,10 @@
             "ex_date": "2019-03-07",
             "payout_ratio": 52.12
         },
-        "latest_price": 112.58
+        "latest_price": 108.76
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "The Clorox Co.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 24.95,
@@ -357,10 +357,10 @@
             "ex_date": "2019-04-23",
             "payout_ratio": 62.61
         },
-        "latest_price": 153.01
+        "latest_price": 154.93
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "3M Co.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 23.9,
@@ -372,10 +372,10 @@
             "ex_date": "2019-02-14",
             "payout_ratio": 59.75
         },
-        "latest_price": 217.64
+        "latest_price": 227.86
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Cincinnati Financial Corp.",
         "sector": "Finance",
         "pe_ratio": 49.13,
@@ -387,10 +387,10 @@
             "ex_date": "2019-03-19",
             "payout_ratio": 120.45
         },
-        "latest_price": 86.47
+        "latest_price": 90.4
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Colgate-Palmolive Co.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 24.97,
@@ -402,10 +402,10 @@
             "ex_date": "2019-04-18",
             "payout_ratio": 60.36
         },
-        "latest_price": 68.68
+        "latest_price": 71.44
     },
     {
-        "last_update": "April 17, 2019 - 8:33 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Caterpillar, Inc.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 13.78,
@@ -417,10 +417,10 @@
             "ex_date": "2019-04-18",
             "payout_ratio": 31.66
         },
-        "latest_price": 142.74
+        "latest_price": 148.53
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Medtronic Plc",
         "sector": "Health Technology",
         "pe_ratio": 23.21,
@@ -432,10 +432,10 @@
             "ex_date": "2019-03-21",
             "payout_ratio": 53.7
         },
-        "latest_price": 84.73
+        "latest_price": 88.03
     },
     {
-        "last_update": "April 17, 2019 - 8:33 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Illinois Tool Works, Inc.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 20.41,
@@ -447,10 +447,10 @@
             "ex_date": "2019-03-28",
             "payout_ratio": 46.54
         },
-        "latest_price": 156.15
+        "latest_price": 166.23
     },
     {
-        "last_update": "April 17, 2019 - 8:34 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Air Products & Chemicals, Inc.",
         "sector": "Process Industries",
         "pe_ratio": 25.68,
@@ -462,10 +462,10 @@
             "ex_date": "2019-03-29",
             "payout_ratio": 57.15
         },
-        "latest_price": 197.75
+        "latest_price": 206.8
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "McDonald's Corp.",
         "sector": "Consumer Services",
         "pe_ratio": 25.15,
@@ -477,10 +477,10 @@
             "ex_date": "2019-02-28",
             "payout_ratio": 54.99
         },
-        "latest_price": 191.61
+        "latest_price": 197.11
     },
     {
-        "last_update": "April 17, 2019 - 8:33 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "General Dynamics Corp.",
         "sector": "Electronic Technology",
         "pe_ratio": 15.4,
@@ -492,10 +492,10 @@
             "ex_date": "2019-04-11",
             "payout_ratio": 32.83
         },
-        "latest_price": 174.53
+        "latest_price": 179.26
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Aflac, Inc.",
         "sector": "Finance",
         "pe_ratio": 12.94,
@@ -507,10 +507,10 @@
             "ex_date": "2019-02-19",
             "payout_ratio": 27.44
         },
-        "latest_price": 49.04
+        "latest_price": 49.26
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Sysco Corp.",
         "sector": "Distribution Services",
         "pe_ratio": 24.87,
@@ -522,10 +522,10 @@
             "ex_date": "2019-04-04",
             "payout_ratio": 51.76
         },
-        "latest_price": 70.64
+        "latest_price": 72.31
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "United Technologies Corp.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 20.5,
@@ -537,10 +537,10 @@
             "ex_date": "2019-02-14",
             "payout_ratio": 42.8
         },
-        "latest_price": 135.79
+        "latest_price": 141
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Chubb Ltd.",
         "sector": "Finance",
         "pe_ratio": 16.15,
@@ -552,10 +552,10 @@
             "ex_date": "2019-03-21",
             "payout_ratio": 34
         },
-        "latest_price": 137.79
+        "latest_price": 140.09
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "VF Corp.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 27.31,
@@ -567,10 +567,10 @@
             "ex_date": "2019-03-07",
             "payout_ratio": 54.05
         },
-        "latest_price": 95.5
+        "latest_price": 98.42
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Walmart, Inc.",
         "sector": "Retail Trade",
         "pe_ratio": 45.15,
@@ -582,10 +582,10 @@
             "ex_date": "2019-05-09",
             "payout_ratio": 91.04
         },
-        "latest_price": 103.16
+        "latest_price": 106.6
     },
     {
-        "last_update": "April 17, 2019 - 8:33 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Dover Corp.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 25.41,
@@ -597,10 +597,10 @@
             "ex_date": "2019-02-27",
             "payout_ratio": 49.87
         },
-        "latest_price": 96.8
+        "latest_price": 101.69
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Hormel Foods Corp.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 22.75,
@@ -612,10 +612,10 @@
             "ex_date": "2019-04-12",
             "payout_ratio": 43.16
         },
-        "latest_price": 40.72
+        "latest_price": 42.03
     },
     {
-        "last_update": "April 17, 2019 - 8:34 pm",
+        "last_update": "April 19, 2019 - 12:51 am",
         "company_name": "Linde Plc",
         "sector": "Process Industries",
         "pe_ratio": 15.8,
@@ -627,10 +627,10 @@
             "ex_date": "2019-03-07",
             "payout_ratio": 28.99
         },
-        "latest_price": 179.91
+        "latest_price": 188.5
     },
     {
-        "last_update": "April 17, 2019 - 8:33 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Stanley Black & Decker, Inc.",
         "sector": "Consumer Durables",
         "pe_ratio": 33.57,
@@ -642,10 +642,10 @@
             "ex_date": "2019-03-04",
             "payout_ratio": 59.89
         },
-        "latest_price": 144.62
+        "latest_price": 147.7
     },
     {
-        "last_update": "April 17, 2019 - 8:33 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "W.W. Grainger, Inc.",
         "sector": "Distribution Services",
         "pe_ratio": 22.3,
@@ -657,10 +657,10 @@
             "ex_date": "2019-02-08",
             "payout_ratio": 38.77
         },
-        "latest_price": 308.32
+        "latest_price": 308.67
     },
     {
-        "last_update": "April 17, 2019 - 8:33 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Automatic Data Processing, Inc.",
         "sector": "Technology Services",
         "pe_ratio": 39.24,
@@ -672,10 +672,10 @@
             "ex_date": "2019-03-07",
             "payout_ratio": 67.47
         },
-        "latest_price": 162.85
+        "latest_price": 163.09
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Lowe's Cos., Inc.",
         "sector": "Retail Trade",
         "pe_ratio": 41.75,
@@ -687,10 +687,10 @@
             "ex_date": "2019-04-23",
             "payout_ratio": 65.95
         },
-        "latest_price": 117.12
+        "latest_price": 114.9
     },
     {
-        "last_update": "April 17, 2019 - 8:34 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "PPG Industries, Inc.",
         "sector": "Process Industries",
         "pe_ratio": 21.38,
@@ -702,10 +702,10 @@
             "ex_date": "2019-02-21",
             "payout_ratio": 33.88
         },
-        "latest_price": 117.39
+        "latest_price": 120.48
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Abbott Laboratories",
         "sector": "Health Technology",
         "pe_ratio": 54.2,
@@ -717,10 +717,10 @@
             "ex_date": "2019-04-12",
             "payout_ratio": 86.26
         },
-        "latest_price": 72.88
+        "latest_price": 74.68
     },
     {
-        "last_update": "April 17, 2019 - 8:31 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "McCormick & Co., Inc.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 30.48,
@@ -732,10 +732,10 @@
             "ex_date": "2019-04-05",
             "payout_ratio": 42.58
         },
-        "latest_price": 152.46
+        "latest_price": 160.7
     },
     {
-        "last_update": "April 17, 2019 - 8:33 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "A. O. Smith Corp.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 21.46,
@@ -747,10 +747,10 @@
             "ex_date": "2019-04-29",
             "payout_ratio": 29.12
         },
-        "latest_price": 56
+        "latest_price": 57.68
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Becton, Dickinson & Co.",
         "sector": "Health Technology",
         "pe_ratio": 67.63,
@@ -762,10 +762,10 @@
             "ex_date": "2019-03-07",
             "payout_ratio": 90.42
         },
-        "latest_price": 225.87
+        "latest_price": 231.5
     },
     {
-        "last_update": "April 17, 2019 - 8:34 pm",
+        "last_update": "April 19, 2019 - 12:51 am",
         "company_name": "Brown-Forman Corp.",
         "sector": "Consumer Non-Durables",
         "pe_ratio": 32.26,
@@ -777,10 +777,10 @@
             "ex_date": null,
             "payout_ratio": 39.03
         },
-        "latest_price": 52.9
+        "latest_price": 53.59
     },
     {
-        "last_update": "April 17, 2019 - 8:32 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "S&P Global, Inc.",
         "sector": "Commercial Services",
         "pe_ratio": 27.6,
@@ -792,10 +792,10 @@
             "ex_date": "2019-02-25",
             "payout_ratio": 25.63
         },
-        "latest_price": 215.39
+        "latest_price": 218
     },
     {
-        "last_update": "April 17, 2019 - 8:34 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Ecolab, Inc.",
         "sector": "Process Industries",
         "pe_ratio": 36.89,
@@ -807,10 +807,10 @@
             "ex_date": "2019-03-18",
             "payout_ratio": 34.07
         },
-        "latest_price": 182.96
+        "latest_price": 188.8
     },
     {
-        "last_update": "April 17, 2019 - 8:33 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Cintas Corp.",
         "sector": "Consumer Services",
         "pe_ratio": 26.69,
@@ -822,10 +822,10 @@
             "ex_date": "2018-11-08",
             "payout_ratio": 20.59
         },
-        "latest_price": 209.94
+        "latest_price": 216.94
     },
     {
-        "last_update": "April 17, 2019 - 8:34 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "The Sherwin-Williams Co.",
         "sector": "Process Industries",
         "pe_ratio": 37.19,
@@ -837,10 +837,10 @@
             "ex_date": "2019-02-22",
             "payout_ratio": 28.88
         },
-        "latest_price": 442.91
+        "latest_price": 472.75
     },
     {
-        "last_update": "April 17, 2019 - 8:33 pm",
+        "last_update": "April 19, 2019 - 12:50 am",
         "company_name": "Roper Technologies, Inc.",
         "sector": "Producer Manufacturing",
         "pe_ratio": 38.09,
@@ -852,6 +852,6 @@
             "ex_date": "2019-04-05",
             "payout_ratio": 18.61
         },
-        "latest_price": 347.97
+        "latest_price": 363.75
     }
 ]
