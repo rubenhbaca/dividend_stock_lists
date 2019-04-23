@@ -1,9 +1,10 @@
 [
     {
-        "last_update": "April 19, 2019 - 12:50 am",
+        "last_update": "April 23, 2019 - 2:06 am",
         "company_name": "The Coca-Cola Co.",
         "sector": "Consumer Non-Durables",
-        "pe_ratio": 31.52,
+        "latest_price": 48.1,
+        "pe_ratio": 33.2,
         "ttm_eps": 1.5,
         "dividend": {
             "ttm_rate": 1.56,
@@ -11,14 +12,14 @@
             "next_date": null,
             "ex_date": "2019-03-14",
             "payout_ratio": 104
-        },
-        "latest_price": 48.3
+        }
     },
     {
-        "last_update": "April 19, 2019 - 12:50 am",
+        "last_update": "April 23, 2019 - 2:06 am",
         "company_name": "Emerson Electric Co.",
         "sector": "Producer Manufacturing",
-        "pe_ratio": 20,
+        "latest_price": 75.58,
+        "pe_ratio": 20.57,
         "ttm_eps": 3.6159,
         "dividend": {
             "ttm_rate": 1.945,
@@ -26,14 +27,14 @@
             "next_date": null,
             "ex_date": "2019-02-14",
             "payout_ratio": 53.79
-        },
-        "latest_price": 74.34
+        }
     },
     {
-        "last_update": "April 19, 2019 - 12:50 am",
+        "last_update": "April 23, 2019 - 2:06 am",
         "company_name": "Procter & Gamble Co.",
         "sector": "Consumer Non-Durables",
-        "pe_ratio": 25.14,
+        "latest_price": 107.96,
+        "pe_ratio": 26.11,
         "ttm_eps": 4.21,
         "dividend": {
             "ttm_rate": 2.8412,
@@ -41,14 +42,14 @@
             "next_date": "2019-04-18",
             "ex_date": "2019-04-18",
             "payout_ratio": 67.49
-        },
-        "latest_price": 111.06
+        }
     },
     {
-        "last_update": "April 19, 2019 - 12:50 am",
+        "last_update": "April 23, 2019 - 2:06 am",
         "company_name": "Johnson & Johnson",
         "sector": "Health Technology",
-        "pe_ratio": 24.34,
+        "latest_price": 141.22,
+        "pe_ratio": null,
         "ttm_eps": 5.69,
         "dividend": {
             "ttm_rate": 3.54,
@@ -56,14 +57,14 @@
             "next_date": null,
             "ex_date": "2019-02-25",
             "payout_ratio": 62.21
-        },
-        "latest_price": 143.22
+        }
     },
     {
-        "last_update": "April 19, 2019 - 12:50 am",
+        "last_update": "April 23, 2019 - 2:06 am",
         "company_name": "Genuine Parts Co.",
         "sector": "Distribution Services",
-        "pe_ratio": 20.38,
+        "latest_price": 104.24,
+        "pe_ratio": 20.05,
         "ttm_eps": 5.5253,
         "dividend": {
             "ttm_rate": 2.88,
@@ -71,14 +72,14 @@
             "next_date": null,
             "ex_date": "2019-03-07",
             "payout_ratio": 52.12
-        },
-        "latest_price": 108.76
+        }
     },
     {
-        "last_update": "April 19, 2019 - 12:50 am",
+        "last_update": "April 23, 2019 - 2:06 am",
         "company_name": "3M Co.",
         "sector": "Producer Manufacturing",
-        "pe_ratio": 23.9,
+        "latest_price": 221.67,
+        "pe_ratio": 24,
         "ttm_eps": 9.1049,
         "dividend": {
             "ttm_rate": 5.44,
@@ -86,14 +87,14 @@
             "next_date": null,
             "ex_date": "2019-02-14",
             "payout_ratio": 59.75
-        },
-        "latest_price": 227.86
+        }
     },
     {
-        "last_update": "April 19, 2019 - 12:50 am",
+        "last_update": "April 23, 2019 - 2:06 am",
         "company_name": "Cincinnati Financial Corp.",
         "sector": "Finance",
-        "pe_ratio": 49.13,
+        "latest_price": 88.86,
+        "pe_ratio": 50.93,
         "ttm_eps": 1.76,
         "dividend": {
             "ttm_rate": 2.12,
@@ -101,14 +102,14 @@
             "next_date": null,
             "ex_date": "2019-03-19",
             "payout_ratio": 120.45
-        },
-        "latest_price": 90.4
+        }
     },
     {
-        "last_update": "April 19, 2019 - 12:50 am",
+        "last_update": "April 23, 2019 - 2:06 am",
         "company_name": "Colgate-Palmolive Co.",
         "sector": "Consumer Non-Durables",
-        "pe_ratio": 24.97,
+        "latest_price": 70.8,
+        "pe_ratio": 26.5,
         "ttm_eps": 2.75,
         "dividend": {
             "ttm_rate": 1.66,
@@ -116,14 +117,14 @@
             "next_date": "2019-04-18",
             "ex_date": "2019-04-18",
             "payout_ratio": 60.36
-        },
-        "latest_price": 71.44
+        }
     },
     {
-        "last_update": "April 19, 2019 - 12:50 am",
+        "last_update": "April 23, 2019 - 2:06 am",
         "company_name": "Illinois Tool Works, Inc.",
         "sector": "Producer Manufacturing",
-        "pe_ratio": 20.41,
+        "latest_price": 161.21,
+        "pe_ratio": 20.97,
         "ttm_eps": 7.65,
         "dividend": {
             "ttm_rate": 3.56,
@@ -131,14 +132,14 @@
             "next_date": null,
             "ex_date": "2019-03-28",
             "payout_ratio": 46.54
-        },
-        "latest_price": 166.23
+        }
     },
     {
-        "last_update": "April 19, 2019 - 12:50 am",
+        "last_update": "April 23, 2019 - 2:06 am",
         "company_name": "Dover Corp.",
         "sector": "Producer Manufacturing",
-        "pe_ratio": 25.41,
+        "latest_price": 97.15,
+        "pe_ratio": 26.13,
         "ttm_eps": 3.81,
         "dividend": {
             "ttm_rate": 1.9,
@@ -146,14 +147,14 @@
             "next_date": null,
             "ex_date": "2019-02-27",
             "payout_ratio": 49.87
-        },
-        "latest_price": 101.69
+        }
     },
     {
-        "last_update": "April 19, 2019 - 12:50 am",
+        "last_update": "April 23, 2019 - 2:06 am",
         "company_name": "Lowe's Cos., Inc.",
         "sector": "Retail Trade",
-        "pe_ratio": 41.75,
+        "latest_price": 115.98,
+        "pe_ratio": 41.38,
         "ttm_eps": 2.805,
         "dividend": {
             "ttm_rate": 1.85,
@@ -161,7 +162,6 @@
             "next_date": "2019-04-23",
             "ex_date": "2019-04-23",
             "payout_ratio": 65.95
-        },
-        "latest_price": 114.9
+        }
     }
 ]
