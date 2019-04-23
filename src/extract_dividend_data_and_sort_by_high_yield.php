@@ -23,6 +23,7 @@ foreach ($tickerNameList as $tickerName) {
         // company
         $o->company_name = $details->getProperty($ticker, 'company', 'companyName');
         $o->sector = $details->getProperty($ticker, 'company', 'sector');
+        $o->symbol = $details->getProperty($ticker, 'company', 'symbol');
 
         // quote
         $o->latest_price = $details->getProperty($ticker, 'quote', 'latestPrice');
