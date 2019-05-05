@@ -1,11 +1,11 @@
 [
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "Holly Energy Partners LP",
         "sector": "Industrial Services",
         "symbol": "HEP",
-        "latest_price": 29.13,
-        "pe_ratio": 16.9,
+        "latest_price": 28.33,
+        "pe_ratio": 16.19,
         "ttm_eps": 1.703,
         "dividend": {
             "ttm_rate": 2.63,
@@ -16,12 +16,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "TC Pipelines LP",
         "sector": "Industrial Services",
         "symbol": "TCP",
-        "latest_price": 36.16,
-        "pe_ratio": -13.27,
+        "latest_price": 34.84,
+        "pe_ratio": -13.64,
         "ttm_eps": -2.6772,
         "dividend": {
             "ttm_rate": 2.95,
@@ -32,12 +32,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "Energy Transfer LP",
         "sector": "Industrial Services",
         "symbol": "ET",
-        "latest_price": 15.99,
-        "pe_ratio": 13.4,
+        "latest_price": 15.96,
+        "pe_ratio": 12.9,
         "ttm_eps": 1.2139,
         "dividend": {
             "ttm_rate": 1.22,
@@ -48,12 +48,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:39 am",
         "company_name": "TransMontaigne Partners L.P.",
         "sector": "Industrial Services",
         "symbol": "TLP",
-        "latest_price": 41.43,
-        "pe_ratio": 24.5,
+        "latest_price": 42.17,
+        "pe_ratio": 24.45,
         "ttm_eps": 1.6889,
         "dividend": {
             "ttm_rate": 3.105,
@@ -64,12 +64,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:39 am",
         "company_name": "Westwood Holdings Group, Inc.",
         "sector": "Finance",
         "symbol": "WHG",
-        "latest_price": 37.9,
-        "pe_ratio": 11.82,
+        "latest_price": 32.43,
+        "pe_ratio": 14.03,
         "ttm_eps": 3.196,
         "dividend": {
             "ttm_rate": 2.76,
@@ -80,12 +80,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:39 am",
         "company_name": "Tanger Factory Outlet Centers, Inc.",
         "sector": "Finance",
         "symbol": "SKT",
-        "latest_price": 19.4,
-        "pe_ratio": 44.16,
+        "latest_price": 18.85,
+        "pe_ratio": 42.43,
         "ttm_eps": 0.4482,
         "dividend": {
             "ttm_rate": 1.3925,
@@ -96,12 +96,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:39 am",
         "company_name": "Omega Healthcare Investors, Inc.",
         "sector": "Finance",
         "symbol": "OHI",
-        "latest_price": 36.5,
-        "pe_ratio": 25.7,
+        "latest_price": 36.02,
+        "pe_ratio": 25.93,
         "ttm_eps": 1.4001,
         "dividend": {
             "ttm_rate": 2.64,
@@ -112,12 +112,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:39 am",
         "company_name": "AT&T, Inc.",
         "sector": "Communications",
         "symbol": "T",
-        "latest_price": 32.9,
-        "pe_ratio": 11.26,
+        "latest_price": 30.8,
+        "pe_ratio": 11.68,
         "ttm_eps": 2.8825,
         "dividend": {
             "ttm_rate": 2.01,
@@ -128,12 +128,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:39 am",
         "company_name": "Magellan Midstream Partners LP",
         "sector": "Industrial Services",
         "symbol": "MMP",
-        "latest_price": 62.05,
-        "pe_ratio": 10.88,
+        "latest_price": 64.36,
+        "pe_ratio": 10.98,
         "ttm_eps": 5.84,
         "dividend": {
             "ttm_rate": 3.7925,
@@ -144,12 +144,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:39 am",
         "company_name": "Enterprise Products Partners LP",
         "sector": "Industrial Services",
         "symbol": "EPD",
-        "latest_price": 29.92,
-        "pe_ratio": 16.2,
+        "latest_price": 29.4,
+        "pe_ratio": null,
         "ttm_eps": 1.9048,
         "dividend": {
             "ttm_rate": 1.715,
@@ -160,12 +160,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:39 am",
         "company_name": "Invesco Ltd.",
         "sector": "Finance",
         "symbol": "IVZ",
-        "latest_price": 21.85,
-        "pe_ratio": 10.62,
+        "latest_price": 22.84,
+        "pe_ratio": 11.46,
         "ttm_eps": 2.1298,
         "dividend": {
             "ttm_rate": 1.19,
@@ -176,12 +176,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:39 am",
         "company_name": "Altria Group, Inc.",
         "sector": "Consumer Non-Durables",
         "symbol": "MO",
-        "latest_price": 55.76,
-        "pe_ratio": 15.48,
+        "latest_price": 55.48,
+        "pe_ratio": 16.57,
         "ttm_eps": 3.69,
         "dividend": {
             "ttm_rate": 3,
@@ -192,12 +192,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:39 am",
         "company_name": "W.P. Carey, Inc.",
         "sector": "Finance",
         "symbol": "WPC",
-        "latest_price": 80.11,
-        "pe_ratio": 24.86,
+        "latest_price": 82.4,
+        "pe_ratio": 26.74,
         "ttm_eps": 3.1698,
         "dividend": {
             "ttm_rate": 4.09,
@@ -208,12 +208,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Urstadt Biddle Properties, Inc.",
         "sector": "Finance",
         "symbol": "UBA",
-        "latest_price": 22.41,
-        "pe_ratio": 31.3,
+        "latest_price": 23.46,
+        "pe_ratio": 32.38,
         "ttm_eps": 0.697,
         "dividend": {
             "ttm_rate": 1.085,
@@ -224,12 +224,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "National Health Investors, Inc.",
         "sector": "Finance",
         "symbol": "NHI",
-        "latest_price": 75.6,
-        "pe_ratio": 20.74,
+        "latest_price": 77.94,
+        "pe_ratio": 21.76,
         "ttm_eps": 3.687,
         "dividend": {
             "ttm_rate": 4,
@@ -240,12 +240,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:39 am",
         "company_name": "PPL Corp.",
         "sector": "Utilities",
         "symbol": "PPL",
-        "latest_price": 31.87,
-        "pe_ratio": 12.27,
+        "latest_price": 32.62,
+        "pe_ratio": 12.3,
         "ttm_eps": 2.5962,
         "dividend": {
             "ttm_rate": 1.64,
@@ -256,12 +256,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:39 am",
         "company_name": "Universal Corp.",
         "sector": "Consumer Non-Durables",
         "symbol": "UVV",
-        "latest_price": 53.73,
-        "pe_ratio": 13.38,
+        "latest_price": 55.25,
+        "pe_ratio": 13.18,
         "ttm_eps": 4.1083,
         "dividend": {
             "ttm_rate": 2.8,
@@ -272,12 +272,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:39 am",
         "company_name": "Compass Minerals International, Inc.",
         "sector": "Process Industries",
         "symbol": "CMP",
-        "latest_price": 59.6,
-        "pe_ratio": 30.08,
+        "latest_price": 58.55,
+        "pe_ratio": 31.36,
         "ttm_eps": 2.0158,
         "dividend": {
             "ttm_rate": 2.88,
@@ -288,12 +288,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Mercury General Corp.",
         "sector": "Finance",
         "symbol": "MCY",
-        "latest_price": 52.3,
-        "pe_ratio": -528.73,
+        "latest_price": 57.85,
+        "pe_ratio": 18.67,
         "ttm_eps": -0.0996,
         "dividend": {
             "ttm_rate": 2.5025,
@@ -304,12 +304,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Occidental Petroleum Corp.",
         "sector": "Energy Minerals",
         "symbol": "OXY",
-        "latest_price": 62.82,
-        "pe_ratio": 11.79,
+        "latest_price": 59.69,
+        "pe_ratio": 11.16,
         "ttm_eps": 5.3985,
         "dividend": {
             "ttm_rate": 3.1,
@@ -320,12 +320,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Welltower, Inc.",
         "sector": "Finance",
         "symbol": "WELL",
-        "latest_price": 75.2,
-        "pe_ratio": 79.81,
+        "latest_price": 79.55,
+        "pe_ratio": 83.74,
         "ttm_eps": 0.919,
         "dividend": {
             "ttm_rate": 3.48,
@@ -336,12 +336,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:24 am",
+        "last_update": "May 5, 2019 - 5:38 am",
         "company_name": "ONEOK, Inc.",
         "sector": "Industrial Services",
         "symbol": "OKE",
-        "latest_price": 73.13,
-        "pe_ratio": 25,
+        "latest_price": 69.08,
+        "pe_ratio": 23.52,
         "ttm_eps": 2.795,
         "dividend": {
             "ttm_rate": 3.245,
@@ -352,12 +352,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Helmerich & Payne, Inc.",
         "sector": "Industrial Services",
         "symbol": "HP",
-        "latest_price": 63.22,
-        "pe_ratio": -8282.54,
+        "latest_price": 58.06,
+        "pe_ratio": 87.7,
         "ttm_eps": -0.0077,
         "dividend": {
             "ttm_rate": 2.83,
@@ -368,12 +368,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "The Southern Co.",
         "sector": "Utilities",
         "symbol": "SO",
-        "latest_price": 53.6,
-        "pe_ratio": 24.75,
+        "latest_price": 53.81,
+        "pe_ratio": 16.7,
         "ttm_eps": 2.19,
         "dividend": {
             "ttm_rate": 2.38,
@@ -384,12 +384,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Lazard Ltd.",
         "sector": "Finance",
         "symbol": "LAZ",
-        "latest_price": 38.63,
-        "pe_ratio": 8.52,
+        "latest_price": 39.76,
+        "pe_ratio": 10.07,
         "ttm_eps": 4.4248,
         "dividend": {
             "ttm_rate": 1.73,
@@ -400,12 +400,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Dominion Energy, Inc.",
         "sector": "Utilities",
         "symbol": "D",
-        "latest_price": 76.38,
-        "pe_ratio": 20.53,
+        "latest_price": 80.23,
+        "pe_ratio": 37.99,
         "ttm_eps": 3.74,
         "dividend": {
             "ttm_rate": 3.34,
@@ -416,12 +416,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "International Business Machines Corp.",
         "sector": "Technology Services",
         "symbol": "IBM",
-        "latest_price": 141.92,
-        "pe_ratio": 15.28,
+        "latest_price": 141.5,
+        "pe_ratio": 15.19,
         "ttm_eps": 9.5646,
         "dividend": {
             "ttm_rate": 6.21,
@@ -432,12 +432,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Duke Energy Corp.",
         "sector": "Utilities",
         "symbol": "DUK",
-        "latest_price": 93.21,
-        "pe_ratio": 24.61,
+        "latest_price": 94.65,
+        "pe_ratio": 24.98,
         "ttm_eps": 3.7575,
         "dividend": {
             "ttm_rate": 3.635,
@@ -448,12 +448,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "Verizon Communications, Inc.",
         "sector": "Communications",
         "symbol": "VZ",
-        "latest_price": 57.96,
-        "pe_ratio": 15.52,
+        "latest_price": 58.34,
+        "pe_ratio": 15.04,
         "ttm_eps": 3.77,
         "dividend": {
             "ttm_rate": 2.385,
@@ -464,12 +464,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Cardinal Health, Inc.",
         "sector": "Distribution Services",
         "symbol": "CAH",
-        "latest_price": 47.26,
-        "pe_ratio": -697.43,
+        "latest_price": 49.67,
+        "pe_ratio": -735.5,
         "ttm_eps": -0.0693,
         "dividend": {
             "ttm_rate": 1.8913,
@@ -480,12 +480,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "People's United Financial, Inc.",
         "sector": "Finance",
         "symbol": "PBCT",
-        "latest_price": 17.86,
-        "pe_ratio": 13.44,
+        "latest_price": 18,
+        "pe_ratio": 14.32,
         "ttm_eps": 1.3,
         "dividend": {
             "ttm_rate": 0.6975,
@@ -496,12 +496,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Exxon Mobil Corp.",
         "sector": "Energy Minerals",
         "symbol": "XOM",
-        "latest_price": 85.49,
-        "pe_ratio": 17.25,
+        "latest_price": 80.22,
+        "pe_ratio": 18.47,
         "ttm_eps": 4.88,
         "dividend": {
             "ttm_rate": 3.23,
@@ -512,12 +512,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "Realty Income Corp.",
         "sector": "Finance",
         "symbol": "O",
-        "latest_price": 70.41,
-        "pe_ratio": 55.25,
+        "latest_price": 72.1,
+        "pe_ratio": 52.57,
         "ttm_eps": 1.26,
         "dividend": {
             "ttm_rate": 2.639,
@@ -528,12 +528,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "General Mills, Inc.",
         "sector": "Consumer Non-Durables",
         "symbol": "GIS",
-        "latest_price": 51.51,
-        "pe_ratio": 20.03,
+        "latest_price": 53.39,
+        "pe_ratio": 20.43,
         "ttm_eps": 2.5737,
         "dividend": {
             "ttm_rate": 1.96,
@@ -544,12 +544,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Bunge Ltd.",
         "sector": "Process Industries",
         "symbol": "BG",
-        "latest_price": 51.96,
-        "pe_ratio": 31.2,
+        "latest_price": 52.57,
+        "pe_ratio": 31.32,
         "ttm_eps": 1.7029,
         "dividend": {
             "ttm_rate": 1.96,
@@ -560,12 +560,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "National Retail Properties, Inc.",
         "sector": "Finance",
         "symbol": "NNN",
-        "latest_price": 53.02,
-        "pe_ratio": 41.81,
+        "latest_price": 54.69,
+        "pe_ratio": 39.14,
         "ttm_eps": 1.2918,
         "dividend": {
             "ttm_rate": 1.95,
@@ -576,12 +576,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Edison International",
         "sector": "Utilities",
         "symbol": "EIX",
-        "latest_price": 66.09,
-        "pe_ratio": -51.05,
+        "latest_price": 61.95,
+        "pe_ratio": -54.9,
         "ttm_eps": -1.2965,
         "dividend": {
             "ttm_rate": 2.4275,
@@ -592,12 +592,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Kellogg Co.",
         "sector": "Consumer Non-Durables",
         "symbol": "K",
-        "latest_price": 60.91,
-        "pe_ratio": 15.55,
+        "latest_price": 58.07,
+        "pe_ratio": 16.81,
         "ttm_eps": 3.86,
         "dividend": {
             "ttm_rate": 2.2,
@@ -608,12 +608,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "CVS Health Corp.",
         "sector": "Retail Trade",
         "symbol": "CVS",
-        "latest_price": 54.98,
-        "pe_ratio": -101.01,
+        "latest_price": 57.94,
+        "pe_ratio": -134.65,
         "ttm_eps": -0.55,
         "dividend": {
             "ttm_rate": 2,
@@ -624,12 +624,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Chevron Corp.",
         "sector": "Energy Minerals",
         "symbol": "CVX",
-        "latest_price": 122.12,
-        "pe_ratio": 16.33,
+        "latest_price": 120.12,
+        "pe_ratio": 16.13,
         "ttm_eps": 7.81,
         "dividend": {
             "ttm_rate": 4.48,
@@ -640,12 +640,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "CenterPoint Energy, Inc.",
         "sector": "Utilities",
         "symbol": "CNP",
-        "latest_price": 31.59,
-        "pe_ratio": 41.4,
+        "latest_price": 31.6,
+        "pe_ratio": 43.83,
         "ttm_eps": 0.7432,
         "dividend": {
             "ttm_rate": 1.11,
@@ -656,12 +656,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Old Republic International Corp.",
         "sector": "Finance",
         "symbol": "ORI",
-        "latest_price": 21.46,
-        "pe_ratio": 17.53,
+        "latest_price": 22.7,
+        "pe_ratio": 8.67,
         "ttm_eps": 1.2343,
         "dividend": {
             "ttm_rate": 0.78,
@@ -672,12 +672,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "Meredith Corp.",
         "sector": "Consumer Services",
         "symbol": "MDP",
-        "latest_price": 59.04,
-        "pe_ratio": -27.18,
+        "latest_price": 61,
+        "pe_ratio": -28.69,
         "ttm_eps": -2.1802,
         "dividend": {
             "ttm_rate": 2.18,
@@ -688,12 +688,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "South Jersey Industries, Inc.",
         "sector": "Utilities",
         "symbol": "SJI",
-        "latest_price": 31.43,
-        "pe_ratio": 112.78,
+        "latest_price": 33.7,
+        "pe_ratio": 117.01,
         "ttm_eps": 0.2828,
         "dividend": {
             "ttm_rate": 1.1275,
@@ -704,12 +704,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "United Bankshares, Inc. (West Virginia)",
         "sector": "Finance",
         "symbol": "UBSI",
-        "latest_price": 40.41,
-        "pe_ratio": 16.3,
+        "latest_price": 41,
+        "pe_ratio": 15.87,
         "ttm_eps": 2.46,
         "dividend": {
             "ttm_rate": 1.36,
@@ -720,12 +720,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "QUALCOMM, Inc.",
         "sector": "Electronic Technology",
         "symbol": "QCOM",
-        "latest_price": 89.47,
-        "pe_ratio": 55.85,
+        "latest_price": 92.95,
+        "pe_ratio": 47.37,
         "ttm_eps": 1.5949,
         "dividend": {
             "ttm_rate": 2.43,
@@ -736,12 +736,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Southside Bancshares, Inc.",
         "sector": "Finance",
         "symbol": "SBSI",
-        "latest_price": 35.94,
-        "pe_ratio": 16.76,
+        "latest_price": 37.11,
+        "pe_ratio": 16.61,
         "ttm_eps": 2.1222,
         "dividend": {
             "ttm_rate": 1.18,
@@ -752,12 +752,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Leggett & Platt, Inc.",
         "sector": "Consumer Durables",
         "symbol": "LEG",
-        "latest_price": 45.12,
-        "pe_ratio": 19.72,
+        "latest_price": 40.5,
+        "pe_ratio": 19.5,
         "ttm_eps": 2.2782,
         "dividend": {
             "ttm_rate": 1.5,
@@ -768,12 +768,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Universal Health Realty Income Trust",
         "sector": "Finance",
         "symbol": "UHT",
-        "latest_price": 79.73,
-        "pe_ratio": 44.97,
+        "latest_price": 86.68,
+        "pe_ratio": 63.36,
         "ttm_eps": 1.7602,
         "dividend": {
             "ttm_rate": 2.68,
@@ -784,12 +784,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Consolidated Edison, Inc.",
         "sector": "Utilities",
         "symbol": "ED",
-        "latest_price": 87.68,
-        "pe_ratio": 19.22,
+        "latest_price": 89.31,
+        "pe_ratio": 20.15,
         "ttm_eps": 4.4348,
         "dividend": {
             "ttm_rate": 2.86,
@@ -800,12 +800,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Digital Realty Trust, Inc.",
         "sector": "Finance",
         "symbol": "DLR",
         "latest_price": 121.4,
-        "pe_ratio": 98.99,
+        "pe_ratio": 93.91,
         "ttm_eps": 1.22,
         "dividend": {
             "ttm_rate": 4.04,
@@ -816,12 +816,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "OGE Energy Corp.",
         "sector": "Utilities",
         "symbol": "OGE",
         "latest_price": 43.25,
-        "pe_ratio": 19.76,
+        "pe_ratio": 20.38,
         "ttm_eps": 2.131,
         "dividend": {
             "ttm_rate": 1.395,
@@ -832,12 +832,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "The Coca-Cola Co.",
         "sector": "Consumer Non-Durables",
         "symbol": "KO",
-        "latest_price": 50.35,
-        "pe_ratio": 33.16,
+        "latest_price": 48.88,
+        "pe_ratio": 31.83,
         "ttm_eps": 1.5,
         "dividend": {
             "ttm_rate": 1.56,
@@ -848,12 +848,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Flowers Foods, Inc.",
         "sector": "Consumer Non-Durables",
         "symbol": "FLO",
-        "latest_price": 22.15,
-        "pe_ratio": 29.29,
+        "latest_price": 22,
+        "pe_ratio": 29.06,
         "ttm_eps": 0.7466,
         "dividend": {
             "ttm_rate": 0.71,
@@ -864,12 +864,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Kimberly-Clark Corp.",
         "sector": "Consumer Non-Durables",
         "symbol": "KMB",
-        "latest_price": 128.47,
-        "pe_ratio": 32.48,
+        "latest_price": 132.8,
+        "pe_ratio": 26.1,
         "ttm_eps": 4.06,
         "dividend": {
             "ttm_rate": 4,
@@ -880,12 +880,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Community Trust Bancorp, Inc. (Kentucky)",
         "sector": "Finance",
         "symbol": "CTBI",
-        "latest_price": 42.9,
-        "pe_ratio": 13.02,
+        "latest_price": 43.96,
+        "pe_ratio": 13.25,
         "ttm_eps": 3.3481,
         "dividend": {
             "ttm_rate": 1.38,
@@ -896,12 +896,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Ryder System, Inc.",
         "sector": "Finance",
         "symbol": "R",
-        "latest_price": 68,
-        "pe_ratio": 12.77,
+        "latest_price": 66.31,
+        "pe_ratio": null,
         "ttm_eps": 5.1705,
         "dividend": {
             "ttm_rate": 2.12,
@@ -912,12 +912,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Cracker Barrel Old Country Store, Inc.",
         "sector": "Consumer Services",
         "symbol": "CBRL",
-        "latest_price": 160.75,
-        "pe_ratio": 17.69,
+        "latest_price": 170.78,
+        "pe_ratio": 19.13,
         "ttm_eps": 9.0823,
         "dividend": {
             "ttm_rate": 4.95,
@@ -928,12 +928,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "NorthWestern Corp.",
         "sector": "Utilities",
         "symbol": "NWE",
-        "latest_price": 68.95,
-        "pe_ratio": 17.86,
+        "latest_price": 73.53,
+        "pe_ratio": 16.88,
         "ttm_eps": 3.9414,
         "dividend": {
             "ttm_rate": 2.2,
@@ -944,12 +944,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Eaton Vance Corp.",
         "sector": "Finance",
         "symbol": "EV",
-        "latest_price": 42.89,
-        "pe_ratio": 12.63,
+        "latest_price": 43.46,
+        "pe_ratio": 12.25,
         "ttm_eps": 3.432,
         "dividend": {
             "ttm_rate": 1.32,
@@ -960,12 +960,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Walgreens Boots Alliance, Inc.",
         "sector": "Retail Trade",
         "symbol": "WBA",
-        "latest_price": 54.56,
-        "pe_ratio": 10.16,
+        "latest_price": 55.98,
+        "pe_ratio": 10.43,
         "ttm_eps": 5.33,
         "dividend": {
             "ttm_rate": 1.72,
@@ -976,12 +976,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Archer-Daniels-Midland Co.",
         "sector": "Process Industries",
         "symbol": "ADM",
-        "latest_price": 43.5,
-        "pe_ratio": 13.46,
+        "latest_price": 43.77,
+        "pe_ratio": 15.11,
         "ttm_eps": 3.2122,
         "dividend": {
             "ttm_rate": 1.34,
@@ -992,12 +992,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "MDU Resources Group, Inc.",
         "sector": "Utilities",
         "symbol": "MDU",
-        "latest_price": 26.17,
-        "pe_ratio": 18.84,
+        "latest_price": 27.02,
+        "pe_ratio": 19.76,
         "ttm_eps": 1.3892,
         "dividend": {
             "ttm_rate": 0.795,
@@ -1008,12 +1008,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "Target Corp.",
         "sector": "Retail Trade",
         "symbol": "TGT",
-        "latest_price": 86.15,
-        "pe_ratio": 15.5,
+        "latest_price": 78.06,
+        "pe_ratio": 14.08,
         "ttm_eps": 5.5596,
         "dividend": {
             "ttm_rate": 2.54,
@@ -1024,12 +1024,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Federal Realty Investment Trust",
         "sector": "Finance",
         "symbol": "FRT",
-        "latest_price": 137.65,
-        "pe_ratio": 43.66,
+        "latest_price": 135.69,
+        "pe_ratio": 45.92,
         "ttm_eps": 3.0171,
         "dividend": {
             "ttm_rate": 4.04,
@@ -1040,12 +1040,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Williams-Sonoma, Inc.",
         "sector": "Retail Trade",
         "symbol": "WSM",
-        "latest_price": 58.07,
-        "pe_ratio": 14.25,
+        "latest_price": 57.8,
+        "pe_ratio": 14.1,
         "ttm_eps": 4.1335,
         "dividend": {
             "ttm_rate": 1.72,
@@ -1056,12 +1056,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Maxim Integrated Products, Inc.",
         "sector": "Electronic Technology",
         "symbol": "MXIM",
-        "latest_price": 60.81,
-        "pe_ratio": 24.33,
+        "latest_price": 61.37,
+        "pe_ratio": 25.97,
         "ttm_eps": 2.5775,
         "dividend": {
             "ttm_rate": 1.76,
@@ -1072,12 +1072,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Nu Skin Enterprises, Inc.",
         "sector": "Consumer Non-Durables",
         "symbol": "NUS",
-        "latest_price": 48.59,
-        "pe_ratio": 22.24,
+        "latest_price": 59.42,
+        "pe_ratio": 25.42,
         "ttm_eps": 2.2156,
         "dividend": {
             "ttm_rate": 1.46,
@@ -1088,12 +1088,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "PepsiCo, Inc.",
         "sector": "Consumer Non-Durables",
         "symbol": "PEP",
-        "latest_price": 129.58,
-        "pe_ratio": 14.53,
+        "latest_price": 129.06,
+        "pe_ratio": 14.87,
         "ttm_eps": 8.85,
         "dividend": {
             "ttm_rate": 3.5875,
@@ -1104,12 +1104,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "MSC Industrial Direct Co., Inc.",
         "sector": "Distribution Services",
         "symbol": "MSM",
-        "latest_price": 84.24,
-        "pe_ratio": 16.46,
+        "latest_price": 87.76,
+        "pe_ratio": 16.56,
         "ttm_eps": 5.2771,
         "dividend": {
             "ttm_rate": 2.42,
@@ -1120,12 +1120,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Alliant Energy Corp.",
         "sector": "Utilities",
         "symbol": "LNT",
-        "latest_price": 47.33,
-        "pe_ratio": 21.65,
+        "latest_price": 48.62,
+        "pe_ratio": 21.66,
         "ttm_eps": 2.1904,
         "dividend": {
             "ttm_rate": 1.34,
@@ -1136,12 +1136,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:42 am",
         "company_name": "Northwest Natural Holding Co.",
         "sector": "Utilities",
         "symbol": "NWN",
-        "latest_price": 66.2,
-        "pe_ratio": 29.28,
+        "latest_price": 68.42,
+        "pe_ratio": 31.59,
         "ttm_eps": 2.2424,
         "dividend": {
             "ttm_rate": 1.8925,
@@ -1152,12 +1152,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "WEC Energy Group, Inc.",
         "sector": "Utilities",
         "symbol": "WEC",
-        "latest_price": 79.45,
-        "pe_ratio": 22.87,
+        "latest_price": 81.97,
+        "pe_ratio": 23.45,
         "ttm_eps": 3.36,
         "dividend": {
             "ttm_rate": 2.21,
@@ -1168,12 +1168,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Eversource Energy",
         "sector": "Utilities",
         "symbol": "ES",
-        "latest_price": 71.3,
-        "pe_ratio": 22.16,
+        "latest_price": 74.62,
+        "pe_ratio": 21.71,
         "ttm_eps": 3.2506,
         "dividend": {
             "ttm_rate": 2.02,
@@ -1184,12 +1184,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Hawkins, Inc.",
         "sector": "Distribution Services",
         "symbol": "HWKN",
-        "latest_price": 39.96,
-        "pe_ratio": -25.79,
+        "latest_price": 41.71,
+        "pe_ratio": -26.91,
         "ttm_eps": -1.5728,
         "dividend": {
             "ttm_rate": 1.12,
@@ -1200,12 +1200,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Portland General Electric Co.",
         "sector": "Utilities",
         "symbol": "POR",
-        "latest_price": 50.88,
-        "pe_ratio": 21.48,
+        "latest_price": 52.5,
+        "pe_ratio": 21.7,
         "ttm_eps": 2.3746,
         "dividend": {
             "ttm_rate": 1.4275,
@@ -1216,12 +1216,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "Hasbro, Inc.",
         "sector": "Consumer Durables",
         "symbol": "HAS",
-        "latest_price": 104.92,
-        "pe_ratio": 58.85,
+        "latest_price": 108.98,
+        "pe_ratio": 38.65,
         "ttm_eps": 1.7245,
         "dividend": {
             "ttm_rate": 2.52,
@@ -1232,12 +1232,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Spire, Inc. (Missouri)",
         "sector": "Utilities",
         "symbol": "SR",
-        "latest_price": 84.2,
-        "pe_ratio": 24.36,
+        "latest_price": 88.07,
+        "pe_ratio": 20,
         "ttm_eps": 3.3662,
         "dividend": {
             "ttm_rate": 2.28,
@@ -1248,12 +1248,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "The J. M. Smucker Co.",
         "sector": "Consumer Non-Durables",
         "symbol": "SJM",
-        "latest_price": 126.7,
-        "pe_ratio": 22.93,
+        "latest_price": 128.25,
+        "pe_ratio": 23.47,
         "ttm_eps": 5.5238,
         "dividend": {
             "ttm_rate": 3.33,
@@ -1264,12 +1264,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Xcel Energy, Inc.",
         "sector": "Utilities",
         "symbol": "XEL",
-        "latest_price": 57.59,
-        "pe_ratio": 22.98,
+        "latest_price": 57.52,
+        "pe_ratio": 22.97,
         "ttm_eps": 2.47,
         "dividend": {
             "ttm_rate": 1.52,
@@ -1280,12 +1280,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "National Fuel Gas Co.",
         "sector": "Energy Minerals",
         "symbol": "NFG",
-        "latest_price": 63.14,
-        "pe_ratio": 18.39,
+        "latest_price": 60.19,
+        "pe_ratio": 17.79,
         "ttm_eps": 3.4387,
         "dividend": {
             "ttm_rate": 1.69,
@@ -1296,12 +1296,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "AXIS Capital Holdings Ltd.",
         "sector": "Finance",
         "symbol": "AXS",
-        "latest_price": 57.74,
-        "pe_ratio": 7641,
+        "latest_price": 57.85,
+        "pe_ratio": 136.83,
         "ttm_eps": 0.0078,
         "dividend": {
             "ttm_rate": 1.57,
@@ -1312,12 +1312,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "National HealthCare Corp.",
         "sector": "Health Services",
         "symbol": "NHC",
-        "latest_price": 72.67,
-        "pe_ratio": 19.29,
+        "latest_price": 78.43,
+        "pe_ratio": 20.39,
         "ttm_eps": 3.8724,
         "dividend": {
             "ttm_rate": 1.98,
@@ -1328,12 +1328,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Emerson Electric Co.",
         "sector": "Producer Manufacturing",
         "symbol": "EMR",
-        "latest_price": 73.61,
-        "pe_ratio": 20.61,
+        "latest_price": 71.4,
+        "pe_ratio": 20.34,
         "ttm_eps": 3.6159,
         "dividend": {
             "ttm_rate": 1.945,
@@ -1344,12 +1344,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Black Hills Corp.",
         "sector": "Utilities",
         "symbol": "BKH",
-        "latest_price": 71.49,
-        "pe_ratio": 15.49,
+        "latest_price": 74.5,
+        "pe_ratio": 19.6,
         "ttm_eps": 4.7206,
         "dividend": {
             "ttm_rate": 1.93,
@@ -1360,12 +1360,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Franklin Resources, Inc.",
         "sector": "Finance",
         "symbol": "BEN",
-        "latest_price": 36.4,
-        "pe_ratio": 11.67,
+        "latest_price": 35.66,
+        "pe_ratio": 12.09,
         "ttm_eps": 3.04,
         "dividend": {
             "ttm_rate": 0.95,
@@ -1376,12 +1376,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Procter & Gamble Co.",
         "sector": "Consumer Non-Durables",
         "symbol": "PG",
-        "latest_price": 107.52,
-        "pe_ratio": 25.6,
+        "latest_price": 110.07,
+        "pe_ratio": 25.62,
         "ttm_eps": 4.21,
         "dividend": {
             "ttm_rate": 2.8412,
@@ -1392,12 +1392,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Essex Property Trust, Inc.",
         "sector": "Finance",
         "symbol": "ESS",
-        "latest_price": 281.3,
-        "pe_ratio": 48.61,
+        "latest_price": 294.05,
+        "pe_ratio": 45.26,
         "ttm_eps": 5.9059,
         "dividend": {
             "ttm_rate": 7.44,
@@ -1408,12 +1408,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Cummins, Inc.",
         "sector": "Producer Manufacturing",
         "symbol": "CMI",
-        "latest_price": 167.32,
-        "pe_ratio": 12.9,
+        "latest_price": 172.03,
+        "pe_ratio": 11.25,
         "ttm_eps": 13.24,
         "dividend": {
             "ttm_rate": 4.44,
@@ -1424,12 +1424,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Nucor Corp.",
         "sector": "Non-Energy Minerals",
         "symbol": "NUE",
-        "latest_price": 59.76,
-        "pe_ratio": 8.14,
+        "latest_price": 59.88,
+        "pe_ratio": 7.41,
         "ttm_eps": 7.4622,
         "dividend": {
             "ttm_rate": 1.54,
@@ -1440,12 +1440,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "CMS Energy Corp.",
         "sector": "Utilities",
         "symbol": "CMS",
-        "latest_price": 55.41,
-        "pe_ratio": 23.4,
+        "latest_price": 58.01,
+        "pe_ratio": 25.65,
         "ttm_eps": 2.33,
         "dividend": {
             "ttm_rate": 1.43,
@@ -1456,12 +1456,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Sonoco Products Co.",
         "sector": "Process Industries",
         "symbol": "SON",
-        "latest_price": 62.95,
-        "pe_ratio": null,
+        "latest_price": 67.11,
+        "pe_ratio": 20.69,
         "ttm_eps": 3.1281,
         "dividend": {
             "ttm_rate": 1.62,
@@ -1472,12 +1472,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Lockheed Martin Corp.",
         "sector": "Electronic Technology",
         "symbol": "LMT",
-        "latest_price": 341.7,
-        "pe_ratio": 19.33,
+        "latest_price": 338.98,
+        "pe_ratio": 17.72,
         "ttm_eps": 17.74,
         "dividend": {
             "ttm_rate": 8.2,
@@ -1488,12 +1488,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "T. Rowe Price Group, Inc.",
         "sector": "Finance",
         "symbol": "TROW",
-        "latest_price": 110.8,
-        "pe_ratio": 14.93,
+        "latest_price": 109.73,
+        "pe_ratio": 14.38,
         "ttm_eps": 7.39,
         "dividend": {
             "ttm_rate": 2.8,
@@ -1504,12 +1504,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Bank OZK",
         "sector": "Finance",
         "symbol": "OZK",
-        "latest_price": 32.8,
-        "pe_ratio": 10.54,
+        "latest_price": 35.67,
+        "pe_ratio": 10.9,
         "ttm_eps": 3.2412,
         "dividend": {
             "ttm_rate": 0.795,
@@ -1520,12 +1520,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Johnson & Johnson",
         "sector": "Health Technology",
         "symbol": "JNJ",
-        "latest_price": 144.1,
-        "pe_ratio": null,
+        "latest_price": 148.88,
+        "pe_ratio": 26.34,
         "ttm_eps": 5.69,
         "dividend": {
             "ttm_rate": 3.54,
@@ -1536,12 +1536,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "Genuine Parts Co.",
         "sector": "Distribution Services",
         "symbol": "GPC",
-        "latest_price": 110.45,
-        "pe_ratio": 20.2,
+        "latest_price": 102.45,
+        "pe_ratio": 19.29,
         "ttm_eps": 5.5253,
         "dividend": {
             "ttm_rate": 2.88,
@@ -1552,12 +1552,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "The Clorox Co.",
         "sector": "Consumer Non-Durables",
         "symbol": "CLX",
-        "latest_price": 153.94,
-        "pe_ratio": 25.53,
+        "latest_price": 153.16,
+        "pe_ratio": 24.2,
         "ttm_eps": 6.133,
         "dividend": {
             "ttm_rate": 3.84,
@@ -1568,12 +1568,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Hubbell, Inc.",
         "sector": "Producer Manufacturing",
         "symbol": "HUBB",
-        "latest_price": 128.27,
-        "pe_ratio": 19.2,
+        "latest_price": 133.25,
+        "pe_ratio": 19.42,
         "ttm_eps": 6.5692,
         "dividend": {
             "ttm_rate": 3.15,
@@ -1584,12 +1584,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "3M Co.",
         "sector": "Producer Manufacturing",
         "symbol": "MMM",
-        "latest_price": 220.3,
-        "pe_ratio": 24.72,
+        "latest_price": 190.5,
+        "pe_ratio": 19.52,
         "ttm_eps": 9.1049,
         "dividend": {
             "ttm_rate": 5.44,
@@ -1600,12 +1600,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Westamerica Bancorporation",
         "sector": "Finance",
         "symbol": "WABC",
-        "latest_price": 65.04,
-        "pe_ratio": 23.67,
+        "latest_price": 66.11,
+        "pe_ratio": 23.5,
         "ttm_eps": 2.69,
         "dividend": {
             "ttm_rate": 1.6,
@@ -1616,12 +1616,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Cullen\/Frost Bankers, Inc.",
         "sector": "Finance",
         "symbol": "CFR",
-        "latest_price": 108.6,
-        "pe_ratio": 15.32,
+        "latest_price": 106.06,
+        "pe_ratio": 14.82,
         "ttm_eps": 6.9624,
         "dividend": {
             "ttm_rate": 2.58,
@@ -1632,12 +1632,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "Best Buy Co., Inc.",
         "sector": "Retail Trade",
         "symbol": "BBY",
-        "latest_price": 75.87,
-        "pe_ratio": 14.33,
+        "latest_price": 75.27,
+        "pe_ratio": 14.06,
         "ttm_eps": 5.3569,
         "dividend": {
             "ttm_rate": 1.8,
@@ -1648,12 +1648,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Southwest Gas Holdings, Inc.",
         "sector": "Utilities",
         "symbol": "SWX",
-        "latest_price": 83.03,
-        "pe_ratio": 22.85,
+        "latest_price": 86,
+        "pe_ratio": 23.25,
         "ttm_eps": 3.6804,
         "dividend": {
             "ttm_rate": 2.055,
@@ -1664,12 +1664,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Ameriprise Financial, Inc.",
         "sector": "Finance",
         "symbol": "AMP",
-        "latest_price": 146.79,
-        "pe_ratio": 10.46,
+        "latest_price": 150.74,
+        "pe_ratio": 11.68,
         "ttm_eps": 14.4,
         "dividend": {
             "ttm_rate": 3.53,
@@ -1680,12 +1680,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Tompkins Financial Corp.",
         "sector": "Finance",
         "symbol": "TMP",
-        "latest_price": 80.75,
-        "pe_ratio": 15.11,
+        "latest_price": 87.2,
+        "pe_ratio": 16.07,
         "ttm_eps": 5.39,
         "dividend": {
             "ttm_rate": 1.94,
@@ -1696,12 +1696,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Polaris Industries Inc.",
         "sector": "Consumer Durables",
         "symbol": "PII",
-        "latest_price": 97.88,
-        "pe_ratio": 18.6,
+        "latest_price": 106.11,
+        "pe_ratio": 19.86,
         "ttm_eps": 5.3706,
         "dividend": {
             "ttm_rate": 2.4,
@@ -1712,12 +1712,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Cincinnati Financial Corp.",
         "sector": "Finance",
         "symbol": "CINF",
-        "latest_price": 89.37,
-        "pe_ratio": 51.32,
+        "latest_price": 99.78,
+        "pe_ratio": 15.56,
         "ttm_eps": 1.76,
         "dividend": {
             "ttm_rate": 2.12,
@@ -1728,12 +1728,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Colgate-Palmolive Co.",
         "sector": "Consumer Non-Durables",
         "symbol": "CL",
-        "latest_price": 72.35,
-        "pe_ratio": 26.24,
+        "latest_price": 73.78,
+        "pe_ratio": 27.32,
         "ttm_eps": 2.75,
         "dividend": {
             "ttm_rate": 1.66,
@@ -1744,12 +1744,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Aqua America, Inc.",
         "sector": "Utilities",
         "symbol": "WTR",
-        "latest_price": 39.35,
-        "pe_ratio": 36.07,
+        "latest_price": 39.45,
+        "pe_ratio": 44.65,
         "ttm_eps": 1.0791,
         "dividend": {
             "ttm_rate": 0.8474,
@@ -1760,12 +1760,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "NextEra Energy, Inc.",
         "sector": "Utilities",
         "symbol": "NEE",
-        "latest_price": 195.04,
-        "pe_ratio": 13.73,
+        "latest_price": 196.1,
+        "pe_ratio": 32.33,
         "ttm_eps": 14.11,
         "dividend": {
             "ttm_rate": 4.44,
@@ -1776,12 +1776,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "McGrath RentCorp",
         "sector": "Finance",
         "symbol": "MGRC",
-        "latest_price": 61.61,
-        "pe_ratio": 18.56,
+        "latest_price": 65,
+        "pe_ratio": 19.4,
         "ttm_eps": 3.2929,
         "dividend": {
             "ttm_rate": 1.36,
@@ -1792,12 +1792,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Caterpillar, Inc.",
         "sector": "Producer Manufacturing",
         "symbol": "CAT",
-        "latest_price": 143.34,
-        "pe_ratio": 14.04,
+        "latest_price": 140.96,
+        "pe_ratio": 13.4,
         "ttm_eps": 10.36,
         "dividend": {
             "ttm_rate": 3.28,
@@ -1808,12 +1808,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Fastenal Co.",
         "sector": "Distribution Services",
         "symbol": "FAST",
-        "latest_price": 74.1,
-        "pe_ratio": 27.44,
+        "latest_price": 74.41,
+        "pe_ratio": 26.89,
         "ttm_eps": 2.6984,
         "dividend": {
             "ttm_rate": 1.6,
@@ -1824,12 +1824,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Medtronic Plc",
         "sector": "Health Technology",
         "symbol": "MDT",
-        "latest_price": 85.6,
-        "pe_ratio": 24.43,
+        "latest_price": 92.36,
+        "pe_ratio": 24.79,
         "ttm_eps": 3.65,
         "dividend": {
             "ttm_rate": 1.96,
@@ -1840,12 +1840,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Healthcare Services Group, Inc.",
         "sector": "Health Services",
         "symbol": "HCSG",
-        "latest_price": 34.26,
-        "pe_ratio": 30.8,
+        "latest_price": 34.09,
+        "pe_ratio": 28.1,
         "ttm_eps": 1.1268,
         "dividend": {
             "ttm_rate": 0.7725,
@@ -1856,12 +1856,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "New Jersey Resources Corp.",
         "sector": "Utilities",
         "symbol": "NJR",
-        "latest_price": 50.47,
-        "pe_ratio": 22.54,
+        "latest_price": 51.12,
+        "pe_ratio": 36.32,
         "ttm_eps": 2.2299,
         "dividend": {
             "ttm_rate": 1.11,
@@ -1872,12 +1872,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Illinois Tool Works, Inc.",
         "sector": "Producer Manufacturing",
         "symbol": "ITW",
-        "latest_price": 165.04,
-        "pe_ratio": 21.66,
+        "latest_price": 165.13,
+        "pe_ratio": 21.75,
         "ttm_eps": 7.65,
         "dividend": {
             "ttm_rate": 3.56,
@@ -1888,12 +1888,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Texas Instruments Incorporated",
         "sector": "Electronic Technology",
         "symbol": "TXN",
-        "latest_price": 120.47,
-        "pe_ratio": 21.22,
+        "latest_price": 120.35,
+        "pe_ratio": 21.09,
         "ttm_eps": 5.71,
         "dividend": {
             "ttm_rate": 2.63,
@@ -1904,12 +1904,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Community Bank System, Inc.",
         "sector": "Finance",
         "symbol": "CBU",
-        "latest_price": 66.79,
-        "pe_ratio": 20.48,
+        "latest_price": 67.41,
+        "pe_ratio": 20.75,
         "ttm_eps": 3.28,
         "dividend": {
             "ttm_rate": 1.44,
@@ -1920,12 +1920,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Air Products & Chemicals, Inc.",
         "sector": "Process Industries",
         "symbol": "APD",
-        "latest_price": 198.99,
-        "pe_ratio": 26.43,
+        "latest_price": 210.05,
+        "pe_ratio": 28.2,
         "ttm_eps": 7.6993,
         "dividend": {
             "ttm_rate": 4.4,
@@ -1936,12 +1936,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Bemis Co., Inc.",
         "sector": "Process Industries",
         "symbol": "BMS",
-        "latest_price": 58.41,
-        "pe_ratio": 24.35,
+        "latest_price": 61.26,
+        "pe_ratio": 24.27,
         "ttm_eps": 2.3611,
         "dividend": {
             "ttm_rate": 1.24,
@@ -1952,12 +1952,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "McDonald's Corp.",
         "sector": "Consumer Services",
         "symbol": "MCD",
-        "latest_price": 196.3,
-        "pe_ratio": 26.67,
+        "latest_price": 200.76,
+        "pe_ratio": null,
         "ttm_eps": 7.62,
         "dividend": {
             "ttm_rate": 4.19,
@@ -1968,12 +1968,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "The Travelers Cos., Inc.",
         "sector": "Finance",
         "symbol": "TRV",
-        "latest_price": 141.08,
-        "pe_ratio": 14.05,
+        "latest_price": 143.67,
+        "pe_ratio": 15.13,
         "ttm_eps": 9.3652,
         "dividend": {
             "ttm_rate": 3.03,
@@ -1984,12 +1984,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "BOK Financial Corp.",
         "sector": "Finance",
         "symbol": "BOKF",
-        "latest_price": 90.68,
-        "pe_ratio": 13.15,
+        "latest_price": 91.9,
+        "pe_ratio": 13.5,
         "ttm_eps": 6.65,
         "dividend": {
             "ttm_rate": 1.9,
@@ -2000,12 +2000,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "RPM International, Inc.",
         "sector": "Process Industries",
         "symbol": "RPM",
-        "latest_price": 62.5,
-        "pe_ratio": 37.96,
+        "latest_price": 62.76,
+        "pe_ratio": 37.28,
         "ttm_eps": 1.6556,
         "dividend": {
             "ttm_rate": 1.34,
@@ -2016,12 +2016,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "General Dynamics Corp.",
         "sector": "Electronic Technology",
         "symbol": "GD",
-        "latest_price": 189.4,
-        "pe_ratio": 16.2,
+        "latest_price": 183.79,
+        "pe_ratio": 16.42,
         "ttm_eps": 11.33,
         "dividend": {
             "ttm_rate": 3.72,
@@ -2032,12 +2032,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "The Kroger Co.",
         "sector": "Retail Trade",
         "symbol": "KR",
-        "latest_price": 25.61,
-        "pe_ratio": 7.09,
+        "latest_price": 26.66,
+        "pe_ratio": 7,
         "ttm_eps": 3.73,
         "dividend": {
             "ttm_rate": 0.545,
@@ -2048,12 +2048,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "C.H. Robinson Worldwide, Inc.",
         "sector": "Transportation",
         "symbol": "CHRW",
-        "latest_price": 91.89,
-        "pe_ratio": 19.03,
+        "latest_price": 87.7,
+        "pe_ratio": 17.71,
         "ttm_eps": 4.7854,
         "dividend": {
             "ttm_rate": 1.88,
@@ -2064,12 +2064,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "International Flavors & Fragrances, Inc.",
         "sector": "Consumer Non-Durables",
         "symbol": "IFF",
-        "latest_price": 138.99,
-        "pe_ratio": 33.29,
+        "latest_price": 143.11,
+        "pe_ratio": 34.1,
         "ttm_eps": 4.176,
         "dividend": {
             "ttm_rate": 2.84,
@@ -2080,12 +2080,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Sysco Corp.",
         "sector": "Distribution Services",
         "symbol": "SYY",
-        "latest_price": 71.7,
-        "pe_ratio": 26.02,
+        "latest_price": 72.97,
+        "pe_ratio": 25.56,
         "ttm_eps": 2.84,
         "dividend": {
             "ttm_rate": 1.47,
@@ -2096,12 +2096,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Aflac, Inc.",
         "sector": "Finance",
         "symbol": "AFL",
-        "latest_price": 49.66,
-        "pe_ratio": 13.28,
+        "latest_price": 51.23,
+        "pe_ratio": 12.58,
         "ttm_eps": 3.79,
         "dividend": {
             "ttm_rate": 1.04,
@@ -2112,12 +2112,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "United Technologies Corp.",
         "sector": "Producer Manufacturing",
         "symbol": "UTX",
-        "latest_price": 141.63,
-        "pe_ratio": 21.81,
+        "latest_price": 148.36,
+        "pe_ratio": 21.82,
         "ttm_eps": 6.6235,
         "dividend": {
             "ttm_rate": 2.835,
@@ -2128,12 +2128,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Chubb Ltd.",
         "sector": "Finance",
         "symbol": "CB",
-        "latest_price": 139.1,
-        "pe_ratio": 16.44,
+        "latest_price": 146.93,
+        "pe_ratio": 17.3,
         "ttm_eps": 8.53,
         "dividend": {
             "ttm_rate": 2.9,
@@ -2144,12 +2144,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "1st Source Corp.",
         "sector": "Finance",
         "symbol": "SRCE",
-        "latest_price": 47.72,
-        "pe_ratio": 14.03,
+        "latest_price": 50.45,
+        "pe_ratio": 14.8,
         "ttm_eps": 3.15,
         "dividend": {
             "ttm_rate": 0.96,
@@ -2160,12 +2160,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Prosperity Bancshares, Inc.",
         "sector": "Finance",
         "symbol": "PB",
-        "latest_price": 72.22,
-        "pe_ratio": 15.83,
+        "latest_price": 75.81,
+        "pe_ratio": 15.81,
         "ttm_eps": 4.61,
         "dividend": {
             "ttm_rate": 1.49,
@@ -2176,12 +2176,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "AmerisourceBergen Corp.",
         "sector": "Distribution Services",
         "symbol": "ABC",
-        "latest_price": 76.75,
-        "pe_ratio": 13.94,
+        "latest_price": 80.01,
+        "pe_ratio": 18.61,
         "ttm_eps": 5.51,
         "dividend": {
             "ttm_rate": 1.54,
@@ -2192,12 +2192,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "VF Corp.",
         "sector": "Consumer Non-Durables",
         "symbol": "VFC",
-        "latest_price": 94.71,
-        "pe_ratio": 28.02,
+        "latest_price": 96.45,
+        "pe_ratio": 28.1,
         "ttm_eps": 3.4968,
         "dividend": {
             "ttm_rate": 1.89,
@@ -2208,12 +2208,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Walmart, Inc.",
         "sector": "Retail Trade",
         "symbol": "WMT",
-        "latest_price": 108.12,
-        "pe_ratio": 46.47,
+        "latest_price": 103.1,
+        "pe_ratio": 45.11,
         "ttm_eps": 2.2848,
         "dividend": {
             "ttm_rate": 2.08,
@@ -2224,12 +2224,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "The Andersons, Inc.",
         "sector": "Process Industries",
         "symbol": "ANDE",
-        "latest_price": 34.24,
-        "pe_ratio": 23.32,
+        "latest_price": 33.69,
+        "pe_ratio": 23.35,
         "ttm_eps": 1.4594,
         "dividend": {
             "ttm_rate": 0.665,
@@ -2240,12 +2240,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Tiffany & Co.",
         "sector": "Retail Trade",
         "symbol": "TIF",
-        "latest_price": 112.17,
-        "pe_ratio": 23.57,
+        "latest_price": 112.76,
+        "pe_ratio": 23.29,
         "ttm_eps": 4.77,
         "dividend": {
             "ttm_rate": 2.15,
@@ -2256,12 +2256,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Evercore, Inc.",
         "sector": "Finance",
         "symbol": "EVR",
-        "latest_price": 96.7,
-        "pe_ratio": 10.48,
+        "latest_price": 97.1,
+        "pe_ratio": 11.52,
         "ttm_eps": 9.3287,
         "dividend": {
             "ttm_rate": 1.9,
@@ -2272,12 +2272,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Matthews International Corp.",
         "sector": "Consumer Durables",
         "symbol": "MATW",
-        "latest_price": 39.42,
-        "pe_ratio": 16.6,
+        "latest_price": 37.34,
+        "pe_ratio": null,
         "ttm_eps": 2.3607,
         "dividend": {
             "ttm_rate": 0.77,
@@ -2288,12 +2288,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "Telephone & Data Systems, Inc.",
         "sector": "Communications",
         "symbol": "TDS",
-        "latest_price": 33.79,
-        "pe_ratio": 27.49,
+        "latest_price": 33.96,
+        "pe_ratio": 25.63,
         "ttm_eps": 1.1983,
         "dividend": {
             "ttm_rate": 0.64,
@@ -2304,12 +2304,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "Vector Group Ltd.",
         "sector": "Consumer Non-Durables",
         "symbol": "VGR",
-        "latest_price": 10.77,
-        "pe_ratio": 30.09,
+        "latest_price": 9.67,
+        "pe_ratio": 27.46,
         "ttm_eps": 0.3626,
         "dividend": {
             "ttm_rate": 1.54285,
@@ -2320,12 +2320,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "Buckeye Partners LP",
         "sector": "Industrial Services",
         "symbol": "BPL",
-        "latest_price": 34.13,
-        "pe_ratio": -89.94,
+        "latest_price": 33.5,
+        "pe_ratio": -90.8,
         "ttm_eps": -0.3787,
         "dividend": {
             "ttm_rate": 4.5375,
@@ -2336,12 +2336,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "AmeriGas Partners LP",
         "sector": "Distribution Services",
         "symbol": "APU",
-        "latest_price": 35.9,
-        "pe_ratio": 84.17,
+        "latest_price": 37.28,
+        "pe_ratio": 86.94,
         "ttm_eps": 0.4264,
         "dividend": {
             "ttm_rate": 3.8,
@@ -2352,12 +2352,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Atmos Energy Corp.",
         "sector": "Utilities",
         "symbol": "ATO",
-        "latest_price": 100.86,
-        "pe_ratio": 25.8,
+        "latest_price": 104.89,
+        "pe_ratio": 26.7,
         "ttm_eps": 3.9709,
         "dividend": {
             "ttm_rate": 1.98,
@@ -2368,12 +2368,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:42 am",
         "company_name": "MGE Energy, Inc.",
         "sector": "Utilities",
         "symbol": "MGEE",
-        "latest_price": 68.98,
-        "pe_ratio": 28.71,
+        "latest_price": 71.16,
+        "pe_ratio": 29.2,
         "ttm_eps": 2.433,
         "dividend": {
             "ttm_rate": 1.32,
@@ -2384,12 +2384,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Sensient Technologies Corp.",
         "sector": "Process Industries",
         "symbol": "SXT",
-        "latest_price": 71.4,
-        "pe_ratio": 19.78,
+        "latest_price": 75.59,
+        "pe_ratio": 20.31,
         "ttm_eps": 3.7152,
         "dividend": {
             "ttm_rate": 1.35,
@@ -2400,12 +2400,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Equity LifeStyle Properties, Inc.",
         "sector": "Finance",
         "symbol": "ELS",
-        "latest_price": 117.5,
-        "pe_ratio": 49.36,
+        "latest_price": 121.25,
+        "pe_ratio": 41.47,
         "ttm_eps": 2.3901,
         "dividend": {
             "ttm_rate": 2.2,
@@ -2416,12 +2416,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "UGI Corp.",
         "sector": "Utilities",
         "symbol": "UGI",
-        "latest_price": 55.3,
-        "pe_ratio": 22.84,
+        "latest_price": 55.46,
+        "pe_ratio": 23.13,
         "ttm_eps": 2.398,
         "dividend": {
             "ttm_rate": 1.03,
@@ -2432,12 +2432,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Dover Corp.",
         "sector": "Producer Manufacturing",
         "symbol": "DOV",
-        "latest_price": 98.51,
-        "pe_ratio": 27.25,
+        "latest_price": 101.78,
+        "pe_ratio": 27.76,
         "ttm_eps": 3.81,
         "dividend": {
             "ttm_rate": 1.9,
@@ -2448,12 +2448,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "ABM Industries, Inc.",
         "sector": "Commercial Services",
         "symbol": "ABM",
-        "latest_price": 39.57,
-        "pe_ratio": 31.17,
+        "latest_price": 39.52,
+        "pe_ratio": 31.55,
         "ttm_eps": 1.2521,
         "dividend": {
             "ttm_rate": 0.705,
@@ -2464,12 +2464,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Raytheon Co.",
         "sector": "Electronic Technology",
         "symbol": "RTN",
-        "latest_price": 188.27,
-        "pe_ratio": 19.14,
+        "latest_price": 183,
+        "pe_ratio": 17.46,
         "ttm_eps": 10.1496,
         "dividend": {
             "ttm_rate": 3.47,
@@ -2480,12 +2480,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Erie Indemnity Co.",
         "sector": "Finance",
         "symbol": "ERIE",
-        "latest_price": 185.18,
-        "pe_ratio": 30.39,
+        "latest_price": 200.08,
+        "pe_ratio": 32.3,
         "ttm_eps": 6.189,
         "dividend": {
             "ttm_rate": 3.42,
@@ -2496,12 +2496,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "The Hanover Insurance Group, Inc.",
         "sector": "Finance",
         "symbol": "THG",
-        "latest_price": 119.4,
-        "pe_ratio": 19.39,
+        "latest_price": 126.31,
+        "pe_ratio": 16.51,
         "ttm_eps": 6.0961,
         "dividend": {
             "ttm_rate": 2.22,
@@ -2512,12 +2512,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Hormel Foods Corp.",
         "sector": "Consumer Non-Durables",
         "symbol": "HRL",
-        "latest_price": 41.17,
-        "pe_ratio": 22.61,
+        "latest_price": 39.91,
+        "pe_ratio": 23.09,
         "ttm_eps": 1.79,
         "dividend": {
             "ttm_rate": 0.7725,
@@ -2528,12 +2528,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:42 am",
         "company_name": "SJW Group",
         "sector": "Utilities",
         "symbol": "SJW",
-        "latest_price": 64.05,
-        "pe_ratio": 33.33,
+        "latest_price": 63.64,
+        "pe_ratio": 32.23,
         "ttm_eps": 1.8452,
         "dividend": {
             "ttm_rate": 1.12,
@@ -2544,12 +2544,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Republic Services, Inc.",
         "sector": "Industrial Services",
         "symbol": "RSG",
-        "latest_price": 80.81,
-        "pe_ratio": 26.08,
+        "latest_price": 86.85,
+        "pe_ratio": 26.68,
         "ttm_eps": 3.18,
         "dividend": {
             "ttm_rate": 1.44,
@@ -2560,12 +2560,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Lincoln Electric Holdings, Inc.",
         "sector": "Producer Manufacturing",
         "symbol": "LECO",
-        "latest_price": 88.53,
-        "pe_ratio": 20.46,
+        "latest_price": 92.02,
+        "pe_ratio": 19.14,
         "ttm_eps": 4.4309,
         "dividend": {
             "ttm_rate": 1.64,
@@ -2576,12 +2576,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "BancFirst Corp. (Oklahoma)",
         "sector": "Finance",
         "symbol": "BANF",
-        "latest_price": 58.7,
-        "pe_ratio": 14.93,
+        "latest_price": 59.5,
+        "pe_ratio": 15.08,
         "ttm_eps": 3.8443,
         "dividend": {
             "ttm_rate": 1.02,
@@ -2592,12 +2592,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Union Pacific Corp.",
         "sector": "Transportation",
         "symbol": "UNP",
-        "latest_price": 178.1,
-        "pe_ratio": 22.14,
+        "latest_price": 179.3,
+        "pe_ratio": 22.53,
         "ttm_eps": 7.96,
         "dividend": {
             "ttm_rate": 3.06,
@@ -2608,12 +2608,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:42 am",
         "company_name": "Connecticut Water Service, Inc.",
         "sector": "Utilities",
         "symbol": "CTWS",
-        "latest_price": 70.59,
-        "pe_ratio": 50.3,
+        "latest_price": 71.96,
+        "pe_ratio": 50.8,
         "ttm_eps": 1.4021,
         "dividend": {
             "ttm_rate": 1.235,
@@ -2624,12 +2624,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Waste Management, Inc.",
         "sector": "Industrial Services",
         "symbol": "WM",
-        "latest_price": 107.79,
-        "pe_ratio": 24.05,
+        "latest_price": 108.9,
+        "pe_ratio": 25.1,
         "ttm_eps": 4.4862,
         "dividend": {
             "ttm_rate": 1.86,
@@ -2640,12 +2640,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Cass Information Systems, Inc.",
         "sector": "Technology Services",
         "symbol": "CASS",
-        "latest_price": 49.82,
-        "pe_ratio": 24.14,
+        "latest_price": 51.83,
+        "pe_ratio": 24.8,
         "ttm_eps": 2.0592,
         "dividend": {
             "ttm_rate": 0.85001,
@@ -2656,12 +2656,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Stanley Black & Decker, Inc.",
         "sector": "Consumer Durables",
         "symbol": "SWK",
-        "latest_price": 150.63,
-        "pe_ratio": 35.78,
+        "latest_price": 158.92,
+        "pe_ratio": 36.07,
         "ttm_eps": 4.308,
         "dividend": {
             "ttm_rate": 2.58,
@@ -2672,12 +2672,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "W.W. Grainger, Inc.",
         "sector": "Distribution Services",
         "symbol": "GWW",
-        "latest_price": 297.32,
-        "pe_ratio": 21.91,
+        "latest_price": 291.49,
+        "pe_ratio": 20.23,
         "ttm_eps": 13.8252,
         "dividend": {
             "ttm_rate": 5.36,
@@ -2688,12 +2688,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Automatic Data Processing, Inc.",
         "sector": "Technology Services",
         "symbol": "ADP",
-        "latest_price": 171.78,
-        "pe_ratio": 39.9,
+        "latest_price": 161.72,
+        "pe_ratio": 37.66,
         "ttm_eps": 4.15,
         "dividend": {
             "ttm_rate": 2.8,
@@ -2704,12 +2704,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "UMB Financial Corp.",
         "sector": "Finance",
         "symbol": "UMBF",
-        "latest_price": 69.55,
-        "pe_ratio": 17,
+        "latest_price": 72.89,
+        "pe_ratio": 17.97,
         "ttm_eps": 3.9606,
         "dividend": {
             "ttm_rate": 1.17,
@@ -2720,12 +2720,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Brady Corp.",
         "sector": "Producer Manufacturing",
         "symbol": "BRC",
-        "latest_price": 51,
-        "pe_ratio": 21.92,
+        "latest_price": 51.43,
+        "pe_ratio": 21.56,
         "ttm_eps": 2.3177,
         "dividend": {
             "ttm_rate": 0.84,
@@ -2736,12 +2736,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:42 am",
         "company_name": "Middlesex Water Co.",
         "sector": "Utilities",
         "symbol": "MSEX",
-        "latest_price": 54.8,
-        "pe_ratio": 28.02,
+        "latest_price": 59.37,
+        "pe_ratio": 30.12,
         "ttm_eps": 1.9741,
         "dividend": {
             "ttm_rate": 0.91125,
@@ -2752,12 +2752,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Analog Devices, Inc.",
         "sector": "Electronic Technology",
         "symbol": "ADI",
-        "latest_price": 114.98,
-        "pe_ratio": 27.29,
+        "latest_price": 119.86,
+        "pe_ratio": 27.65,
         "ttm_eps": 4.25,
         "dividend": {
             "ttm_rate": 1.92,
@@ -2768,12 +2768,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Northrop Grumman Corp.",
         "sector": "Electronic Technology",
         "symbol": "NOC",
-        "latest_price": 297.09,
-        "pe_ratio": 15.82,
+        "latest_price": 301.36,
+        "pe_ratio": 15.39,
         "ttm_eps": 18.5842,
         "dividend": {
             "ttm_rate": 4.7,
@@ -2784,12 +2784,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Robert Half International, Inc.",
         "sector": "Commercial Services",
         "symbol": "RHI",
-        "latest_price": 68.84,
-        "pe_ratio": 19.89,
+        "latest_price": 63.1,
+        "pe_ratio": 16.5,
         "ttm_eps": 3.6057,
         "dividend": {
             "ttm_rate": 1.12,
@@ -2800,12 +2800,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "NewMarket Corp.",
         "sector": "Process Industries",
         "symbol": "NEU",
-        "latest_price": 450.09,
-        "pe_ratio": 22.17,
+        "latest_price": 439.62,
+        "pe_ratio": 20.98,
         "ttm_eps": 20.3492,
         "dividend": {
             "ttm_rate": 7,
@@ -2816,12 +2816,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "NACCO Industries, Inc.",
         "sector": "Consumer Durables",
         "symbol": "NC",
-        "latest_price": 42.1,
-        "pe_ratio": 8.11,
+        "latest_price": 49.7,
+        "pe_ratio": 8.32,
         "ttm_eps": 5.0282,
         "dividend": {
             "ttm_rate": 0.66,
@@ -2832,12 +2832,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Albemarle Corp.",
         "sector": "Process Industries",
         "symbol": "ALB",
-        "latest_price": 81.03,
-        "pe_ratio": 12.79,
+        "latest_price": 80.06,
+        "pe_ratio": 12.58,
         "ttm_eps": 6.3821,
         "dividend": {
             "ttm_rate": 1.34,
@@ -2848,12 +2848,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "Lowe's Cos., Inc.",
         "sector": "Retail Trade",
         "symbol": "LOW",
-        "latest_price": 118.99,
-        "pe_ratio": 41,
+        "latest_price": 117.41,
+        "pe_ratio": 40.74,
         "ttm_eps": 2.805,
         "dividend": {
             "ttm_rate": 1.85,
@@ -2864,12 +2864,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "PPG Industries, Inc.",
         "sector": "Process Industries",
         "symbol": "PPG",
-        "latest_price": 118.78,
-        "pe_ratio": 22.2,
+        "latest_price": 120.58,
+        "pe_ratio": 21.9,
         "ttm_eps": 5.49,
         "dividend": {
             "ttm_rate": 1.86,
@@ -2880,12 +2880,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:42 am",
         "company_name": "Chesapeake Utilities Corp.",
         "sector": "Utilities",
         "symbol": "CPK",
-        "latest_price": 94.27,
-        "pe_ratio": 26.78,
+        "latest_price": 94.8,
+        "pe_ratio": 27.3,
         "ttm_eps": 3.455,
         "dividend": {
             "ttm_rate": 1.435,
@@ -2896,12 +2896,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "American States Water Co.",
         "sector": "Utilities",
         "symbol": "AWR",
-        "latest_price": 70.6,
-        "pe_ratio": 41.89,
+        "latest_price": 71.54,
+        "pe_ratio": 43.03,
         "ttm_eps": 1.7246,
         "dividend": {
             "ttm_rate": 1.06,
@@ -2912,12 +2912,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Accenture Plc",
         "sector": "Technology Services",
         "symbol": "ACN",
-        "latest_price": 181.93,
-        "pe_ratio": 26.56,
+        "latest_price": 179.65,
+        "pe_ratio": 25.77,
         "ttm_eps": 7,
         "dividend": {
             "ttm_rate": 2.79,
@@ -2928,12 +2928,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Commerce Bancshares, Inc. (Missouri)",
         "sector": "Finance",
         "symbol": "CBSH",
-        "latest_price": 61.41,
-        "pe_ratio": 16.58,
+        "latest_price": 63.58,
+        "pe_ratio": 16.85,
         "ttm_eps": 3.7582,
         "dividend": {
             "ttm_rate": 0.93143,
@@ -2944,12 +2944,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Lancaster Colony Corp.",
         "sector": "Consumer Non-Durables",
         "symbol": "LANC",
-        "latest_price": 156.6,
-        "pe_ratio": 29.03,
+        "latest_price": 156.71,
+        "pe_ratio": 28.18,
         "ttm_eps": 5.3527,
         "dividend": {
             "ttm_rate": 2.45,
@@ -2960,12 +2960,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Abbott Laboratories",
         "sector": "Health Technology",
         "symbol": "ABT",
-        "latest_price": 79.6,
-        "pe_ratio": null,
+        "latest_price": 81.26,
+        "pe_ratio": 54,
         "ttm_eps": 1.3447,
         "dividend": {
             "ttm_rate": 1.16,
@@ -2976,12 +2976,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Harris Corp.",
         "sector": "Electronic Technology",
         "symbol": "HRS",
-        "latest_price": 169.9,
-        "pe_ratio": 24.3,
+        "latest_price": 182.94,
+        "pe_ratio": 24.39,
         "ttm_eps": 7.2201,
         "dividend": {
             "ttm_rate": 2.51,
@@ -2992,12 +2992,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "California Water Service Group",
         "sector": "Utilities",
         "symbol": "CWT",
-        "latest_price": 50.71,
-        "pe_ratio": 39.55,
+        "latest_price": 51.29,
+        "pe_ratio": 45.54,
         "ttm_eps": 1.2551,
         "dividend": {
             "ttm_rate": 0.75,
@@ -3008,12 +3008,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Broadridge Financial Solutions, Inc.",
         "sector": "Commercial Services",
         "symbol": "BR",
-        "latest_price": 119.8,
-        "pe_ratio": 31.63,
+        "latest_price": 121.43,
+        "pe_ratio": 31.9,
         "ttm_eps": 3.7866,
         "dividend": {
             "ttm_rate": 1.7,
@@ -3024,12 +3024,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Perrigo Co. Plc",
         "sector": "Health Technology",
         "symbol": "PRGO",
-        "latest_price": 50.79,
-        "pe_ratio": 53.12,
+        "latest_price": 52.13,
+        "pe_ratio": 54.25,
         "ttm_eps": 0.9377,
         "dividend": {
             "ttm_rate": 0.76,
@@ -3040,12 +3040,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "L3 Technologies, Inc.",
         "sector": "Electronic Technology",
         "symbol": "LLL",
-        "latest_price": 225.37,
-        "pe_ratio": 22.32,
+        "latest_price": 237.73,
+        "pe_ratio": 24.22,
         "ttm_eps": 9.8268,
         "dividend": {
             "ttm_rate": 3.2,
@@ -3056,12 +3056,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Microchip Technology, Inc.",
         "sector": "Electronic Technology",
         "symbol": "MCHP",
-        "latest_price": 98.24,
-        "pe_ratio": 73.58,
+        "latest_price": 104.5,
+        "pe_ratio": 72.79,
         "ttm_eps": 1.4,
         "dividend": {
             "ttm_rate": 1.455,
@@ -3072,12 +3072,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Bank of Marin Bancorp",
         "sector": "Finance",
         "symbol": "BMRC",
-        "latest_price": 44.2,
-        "pe_ratio": 18.46,
+        "latest_price": 44.65,
+        "pe_ratio": 17.62,
         "ttm_eps": 2.3525,
         "dividend": {
             "ttm_rate": 0.635,
@@ -3088,12 +3088,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Microsoft Corp.",
         "sector": "Technology Services",
         "symbol": "MSFT",
-        "latest_price": 129.44,
-        "pe_ratio": 29.05,
+        "latest_price": 132.8,
+        "pe_ratio": 28.52,
         "ttm_eps": 4.35,
         "dividend": {
             "ttm_rate": 1.76,
@@ -3104,12 +3104,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "American Financial Group, Inc.",
         "sector": "Finance",
         "symbol": "AFG",
-        "latest_price": 102.29,
-        "pe_ratio": 17.05,
+        "latest_price": 105.12,
+        "pe_ratio": null,
         "ttm_eps": 5.9648,
         "dividend": {
             "ttm_rate": 1.45,
@@ -3120,12 +3120,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "The TJX Cos., Inc.",
         "sector": "Retail Trade",
         "symbol": "TJX",
-        "latest_price": 57.64,
-        "pe_ratio": 22.6,
+        "latest_price": 54.13,
+        "pe_ratio": 22.7,
         "ttm_eps": 2.475,
         "dividend": {
             "ttm_rate": 0.78,
@@ -3136,12 +3136,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Donaldson Co., Inc.",
         "sector": "Process Industries",
         "symbol": "DCI",
-        "latest_price": 55.33,
-        "pe_ratio": 22.87,
+        "latest_price": 55.43,
+        "pe_ratio": 23,
         "ttm_eps": 2.3714,
         "dividend": {
             "ttm_rate": 0.76,
@@ -3152,12 +3152,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "The Gorman-Rupp Co.",
         "sector": "Producer Manufacturing",
         "symbol": "GRC",
-        "latest_price": 36,
-        "pe_ratio": 23.78,
+        "latest_price": 33.97,
+        "pe_ratio": 24.12,
         "ttm_eps": 1.5333,
         "dividend": {
             "ttm_rate": 0.51,
@@ -3168,12 +3168,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Lindsay Corp.",
         "sector": "Producer Manufacturing",
         "symbol": "LNN",
-        "latest_price": 87.17,
-        "pe_ratio": 69.59,
+        "latest_price": 88.9,
+        "pe_ratio": 74.73,
         "ttm_eps": 1.2136,
         "dividend": {
             "ttm_rate": 1.23,
@@ -3184,12 +3184,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "McCormick & Co., Inc.",
         "sector": "Consumer Non-Durables",
         "symbol": "MKC",
-        "latest_price": 158.15,
-        "pe_ratio": 30.8,
+        "latest_price": 152.77,
+        "pe_ratio": 31.43,
         "ttm_eps": 5.002,
         "dividend": {
             "ttm_rate": 2.13,
@@ -3200,12 +3200,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "MSA Safety, Inc.",
         "sector": "Consumer Durables",
         "symbol": "MSA",
-        "latest_price": 110.87,
-        "pe_ratio": 33.11,
+        "latest_price": 113.94,
+        "pe_ratio": 39.3,
         "ttm_eps": 3.236,
         "dividend": {
             "ttm_rate": 1.49,
@@ -3216,12 +3216,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "A. O. Smith Corp.",
         "sector": "Producer Manufacturing",
         "symbol": "AOS",
-        "latest_price": 58.76,
-        "pe_ratio": 21.57,
+        "latest_price": 53.74,
+        "pe_ratio": null,
         "ttm_eps": 2.6099,
         "dividend": {
             "ttm_rate": 0.76,
@@ -3232,12 +3232,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Silgan Holdings, Inc.",
         "sector": "Process Industries",
         "symbol": "SLGN",
-        "latest_price": 30.67,
-        "pe_ratio": 15.77,
+        "latest_price": 31.38,
+        "pe_ratio": 15,
         "ttm_eps": 2.0211,
         "dividend": {
             "ttm_rate": 0.4,
@@ -3248,12 +3248,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Regal Beloit Corp.",
         "sector": "Producer Manufacturing",
         "symbol": "RBC",
-        "latest_price": 86.36,
-        "pe_ratio": 16.19,
+        "latest_price": 88.19,
+        "pe_ratio": 17.22,
         "ttm_eps": 5.2966,
         "dividend": {
             "ttm_rate": 1.1,
@@ -3264,12 +3264,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Tennant Co.",
         "sector": "Producer Manufacturing",
         "symbol": "TNC",
-        "latest_price": 70.56,
-        "pe_ratio": 37.48,
+        "latest_price": 66.08,
+        "pe_ratio": 34.36,
         "ttm_eps": 1.8557,
         "dividend": {
             "ttm_rate": 0.85,
@@ -3280,12 +3280,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Becton, Dickinson & Co.",
         "sector": "Health Technology",
         "symbol": "BDX",
-        "latest_price": 229.52,
-        "pe_ratio": 68.76,
+        "latest_price": 243.23,
+        "pe_ratio": 74.37,
         "ttm_eps": 3.34,
         "dividend": {
             "ttm_rate": 3.02,
@@ -3296,12 +3296,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "McKesson Corp.",
         "sector": "Distribution Services",
         "symbol": "MCK",
-        "latest_price": 115.7,
-        "pe_ratio": -92.64,
+        "latest_price": 128.29,
+        "pe_ratio": -97.62,
         "ttm_eps": -1.3056,
         "dividend": {
             "ttm_rate": 1.46,
@@ -3312,12 +3312,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "FedEx Corp.",
         "sector": "Transportation",
         "symbol": "FDX",
-        "latest_price": 197.66,
-        "pe_ratio": 14.84,
+        "latest_price": 189.76,
+        "pe_ratio": 13.81,
         "ttm_eps": 13.7676,
         "dividend": {
             "ttm_rate": 2.45,
@@ -3328,12 +3328,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "H.B. Fuller Co.",
         "sector": "Process Industries",
         "symbol": "FUL",
-        "latest_price": 51.44,
-        "pe_ratio": 18.74,
+        "latest_price": 51.78,
+        "pe_ratio": 19.28,
         "ttm_eps": 2.6865,
         "dividend": {
             "ttm_rate": 0.62,
@@ -3344,12 +3344,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Carlisle Cos., Inc.",
         "sector": "Producer Manufacturing",
         "symbol": "CSL",
-        "latest_price": 134.58,
-        "pe_ratio": 25.85,
+        "latest_price": 143.92,
+        "pe_ratio": 23.18,
         "ttm_eps": 5.1694,
         "dividend": {
             "ttm_rate": 1.54,
@@ -3360,12 +3360,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Westlake Chemical Corp.",
         "sector": "Process Industries",
         "symbol": "WLK",
-        "latest_price": 76.35,
-        "pe_ratio": 10.23,
+        "latest_price": 66.2,
+        "pe_ratio": 11.03,
         "ttm_eps": 7.6527,
         "dividend": {
             "ttm_rate": 0.92,
@@ -3376,12 +3376,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "AptarGroup, Inc.",
         "sector": "Process Industries",
         "symbol": "ATR",
-        "latest_price": 114.54,
-        "pe_ratio": 37.11,
+        "latest_price": 117.99,
+        "pe_ratio": 37.73,
         "ttm_eps": 3.1125,
         "dividend": {
             "ttm_rate": 1.32,
@@ -3392,12 +3392,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "J&J Snack Foods Corp.",
         "sector": "Consumer Non-Durables",
         "symbol": "JJSF",
-        "latest_price": 158.8,
-        "pe_ratio": 36.1,
+        "latest_price": 168.71,
+        "pe_ratio": 34.8,
         "ttm_eps": 4.5328,
         "dividend": {
             "ttm_rate": 1.85,
@@ -3408,12 +3408,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "RLI Corp.",
         "sector": "Finance",
         "symbol": "RLI",
-        "latest_price": 81.66,
-        "pe_ratio": null,
+        "latest_price": 85.46,
+        "pe_ratio": 32.85,
         "ttm_eps": 1.4558,
         "dividend": {
             "ttm_rate": 0.87,
@@ -3424,12 +3424,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Church & Dwight Co., Inc.",
         "sector": "Consumer Non-Durables",
         "symbol": "CHD",
-        "latest_price": 73.89,
-        "pe_ratio": 31.87,
+        "latest_price": 74.78,
+        "pe_ratio": 32.37,
         "ttm_eps": 2.3191,
         "dividend": {
             "ttm_rate": 0.87,
@@ -3440,12 +3440,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "CSX Corp.",
         "sector": "Transportation",
         "symbol": "CSX",
-        "latest_price": 81.26,
-        "pe_ratio": 19.95,
+        "latest_price": 82.08,
+        "pe_ratio": 20.06,
         "ttm_eps": 3.8844,
         "dividend": {
             "ttm_rate": 0.88,
@@ -3456,12 +3456,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "The Toro Co.",
         "sector": "Producer Manufacturing",
         "symbol": "TTC",
-        "latest_price": 76.68,
-        "pe_ratio": 25.92,
+        "latest_price": 74.92,
+        "pe_ratio": 26.4,
         "ttm_eps": 2.9085,
         "dividend": {
             "ttm_rate": 0.825,
@@ -3472,12 +3472,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Expeditors International of Washington, Inc.",
         "sector": "Transportation",
         "symbol": "EXPD",
-        "latest_price": 81.19,
-        "pe_ratio": 22.96,
+        "latest_price": 81.77,
+        "pe_ratio": 23.12,
         "ttm_eps": 3.5532,
         "dividend": {
             "ttm_rate": 0.9,
@@ -3488,12 +3488,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Royal Gold, Inc.",
         "sector": "Non-Energy Minerals",
         "symbol": "RGLD",
-        "latest_price": 90.5,
-        "pe_ratio": -65.78,
+        "latest_price": 82.49,
+        "pe_ratio": 59.22,
         "ttm_eps": -1.3498,
         "dividend": {
             "ttm_rate": 1.015,
@@ -3504,12 +3504,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "SEI Investments Co.",
         "sector": "Finance",
         "symbol": "SEIC",
-        "latest_price": 58.06,
-        "pe_ratio": 18.6,
+        "latest_price": 56.07,
+        "pe_ratio": 17.99,
         "ttm_eps": 3.2283,
         "dividend": {
             "ttm_rate": 0.63,
@@ -3520,12 +3520,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Xilinx, Inc.",
         "sector": "Electronic Technology",
         "symbol": "XLNX",
-        "latest_price": 142.96,
-        "pe_ratio": 44.3,
+        "latest_price": 119.14,
+        "pe_ratio": 33.93,
         "ttm_eps": 3.2008,
         "dividend": {
             "ttm_rate": 1.43,
@@ -3536,12 +3536,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Graco, Inc.",
         "sector": "Producer Manufacturing",
         "symbol": "GGG",
-        "latest_price": 55.68,
-        "pe_ratio": 27,
+        "latest_price": 52.6,
+        "pe_ratio": 26.33,
         "ttm_eps": 2.0344,
         "dividend": {
             "ttm_rate": 0.5575,
@@ -3552,12 +3552,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Jack Henry & Associates, Inc.",
         "sector": "Technology Services",
         "symbol": "JKHY",
-        "latest_price": 152.71,
-        "pe_ratio": 37.48,
+        "latest_price": 141.51,
+        "pe_ratio": null,
         "ttm_eps": 4.0042,
         "dividend": {
             "ttm_rate": 1.48,
@@ -3568,12 +3568,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Stepan Co.",
         "sector": "Process Industries",
         "symbol": "SCL",
-        "latest_price": 93.94,
-        "pe_ratio": 19.18,
+        "latest_price": 94.46,
+        "pe_ratio": 20.39,
         "ttm_eps": 4.8966,
         "dividend": {
             "ttm_rate": 0.925,
@@ -3584,12 +3584,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Stryker Corp.",
         "sector": "Health Technology",
         "symbol": "SYK",
-        "latest_price": 189.36,
-        "pe_ratio": 20.48,
+        "latest_price": 192.29,
+        "pe_ratio": 20.55,
         "ttm_eps": 9.5,
         "dividend": {
             "ttm_rate": 1.93,
@@ -3600,12 +3600,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Brown & Brown, Inc.",
         "sector": "Finance",
         "symbol": "BRO",
-        "latest_price": 32.42,
-        "pe_ratio": 25.7,
+        "latest_price": 33.45,
+        "pe_ratio": 25.2,
         "ttm_eps": 1.2431,
         "dividend": {
             "ttm_rate": 0.305,
@@ -3616,12 +3616,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "J.B. Hunt Transport Services, Inc.",
         "sector": "Transportation",
         "symbol": "JBHT",
-        "latest_price": 102.55,
-        "pe_ratio": null,
+        "latest_price": 100.68,
+        "pe_ratio": 21.8,
         "ttm_eps": null,
         "dividend": {
             "ttm_rate": 0.98,
@@ -3632,12 +3632,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "American Equity Investment Life Holding Co.",
         "sector": "Finance",
         "symbol": "AEL",
-        "latest_price": 30.2,
-        "pe_ratio": 5.87,
+        "latest_price": 31.82,
+        "pe_ratio": 9.7,
         "ttm_eps": 5.0757,
         "dividend": {
             "ttm_rate": 0.28,
@@ -3648,12 +3648,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "FactSet Research Systems, Inc.",
         "sector": "Commercial Services",
         "symbol": "FDS",
-        "latest_price": 270.9,
-        "pe_ratio": 33.62,
+        "latest_price": 286.59,
+        "pe_ratio": 34.59,
         "ttm_eps": 8.18,
         "dividend": {
             "ttm_rate": 2.56,
@@ -3664,12 +3664,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Badger Meter, Inc.",
         "sector": "Electronic Technology",
         "symbol": "BMI",
-        "latest_price": 56.19,
-        "pe_ratio": 60.88,
+        "latest_price": 55.63,
+        "pe_ratio": 54.24,
         "ttm_eps": 0.9577,
         "dividend": {
             "ttm_rate": 0.56,
@@ -3680,12 +3680,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "NIKE, Inc.",
         "sector": "Consumer Non-Durables",
         "symbol": "NKE",
-        "latest_price": 89.75,
-        "pe_ratio": 33.12,
+        "latest_price": 86.2,
+        "pe_ratio": 32.49,
         "ttm_eps": 2.64,
         "dividend": {
             "ttm_rate": 0.84,
@@ -3696,12 +3696,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "VSE Corp.",
         "sector": "Electronic Technology",
         "symbol": "VSEC",
-        "latest_price": 33.5,
-        "pe_ratio": 10.6,
+        "latest_price": 29.38,
+        "pe_ratio": 9.01,
         "ttm_eps": 3.2194,
         "dividend": {
             "ttm_rate": 0.31,
@@ -3712,12 +3712,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Monro, Inc.",
         "sector": "Retail Trade",
         "symbol": "MNRO",
-        "latest_price": 81.03,
-        "pe_ratio": 33.14,
+        "latest_price": 82.73,
+        "pe_ratio": 35.34,
         "ttm_eps": 2.4366,
         "dividend": {
             "ttm_rate": 0.78,
@@ -3728,12 +3728,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Costco Wholesale Corp.",
         "sector": "Retail Trade",
         "symbol": "COST",
-        "latest_price": 256.23,
-        "pe_ratio": 32.32,
+        "latest_price": 252.61,
+        "pe_ratio": 32.34,
         "ttm_eps": 7.86,
         "dividend": {
             "ttm_rate": 2.28,
@@ -3744,12 +3744,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "S&P Global, Inc.",
         "sector": "Commercial Services",
         "symbol": "SPGI",
-        "latest_price": 220.88,
-        "pe_ratio": 29,
+        "latest_price": 226.52,
+        "pe_ratio": 29.51,
         "ttm_eps": 7.8034,
         "dividend": {
             "ttm_rate": 2,
@@ -3760,12 +3760,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:40 am",
         "company_name": "Ross Stores, Inc.",
         "sector": "Retail Trade",
         "symbol": "ROST",
-        "latest_price": 101.91,
-        "pe_ratio": 23.72,
+        "latest_price": 98.34,
+        "pe_ratio": 22.9,
         "ttm_eps": 4.298,
         "dividend": {
             "ttm_rate": 0.9,
@@ -3776,12 +3776,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Ecolab, Inc.",
         "sector": "Process Industries",
         "symbol": "ECL",
-        "latest_price": 186.59,
-        "pe_ratio": 37.3,
+        "latest_price": 186,
+        "pe_ratio": 36.38,
         "ttm_eps": 4.96,
         "dividend": {
             "ttm_rate": 1.69,
@@ -3792,12 +3792,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Franklin Electric Co., Inc.",
         "sector": "Producer Manufacturing",
         "symbol": "FELE",
-        "latest_price": 47.61,
-        "pe_ratio": 21.1,
+        "latest_price": 49.56,
+        "pe_ratio": 25.9,
         "ttm_eps": 2.2563,
         "dividend": {
             "ttm_rate": 0.4675,
@@ -3808,12 +3808,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Nordson Corp.",
         "sector": "Producer Manufacturing",
         "symbol": "NDSN",
-        "latest_price": 149.4,
-        "pe_ratio": 27.83,
+        "latest_price": 148.96,
+        "pe_ratio": 27.2,
         "ttm_eps": 5.5344,
         "dividend": {
             "ttm_rate": 1.3,
@@ -3824,12 +3824,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Tootsie Roll Industries, Inc.",
         "sector": "Consumer Non-Durables",
         "symbol": "TR",
-        "latest_price": 40.17,
-        "pe_ratio": 46.2,
+        "latest_price": 40.02,
+        "pe_ratio": 44.8,
         "ttm_eps": 0.8611,
         "dividend": {
             "ttm_rate": 0.34697,
@@ -3840,12 +3840,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Rollins, Inc.",
         "sector": "Consumer Services",
         "symbol": "ROL",
-        "latest_price": 44.14,
-        "pe_ratio": 63.44,
+        "latest_price": 39.63,
+        "pe_ratio": 55.43,
         "ttm_eps": 0.7078,
         "dividend": {
             "ttm_rate": 0.37332333644444,
@@ -3856,12 +3856,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "ITT, Inc.",
         "sector": "Producer Manufacturing",
         "symbol": "ITT",
-        "latest_price": 63.62,
-        "pe_ratio": 16.9,
+        "latest_price": 65.2,
+        "pe_ratio": 18.68,
         "ttm_eps": 3.8125,
         "dividend": {
             "ttm_rate": 0.536,
@@ -3872,12 +3872,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Columbia Sportswear Co.",
         "sector": "Consumer Non-Durables",
         "symbol": "COLM",
-        "latest_price": 103.83,
-        "pe_ratio": 27.43,
+        "latest_price": 100,
+        "pe_ratio": 23.8,
         "ttm_eps": 3.8667,
         "dividend": {
             "ttm_rate": 0.9,
@@ -3888,12 +3888,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "RenaissanceRe Holdings Ltd.",
         "sector": "Finance",
         "symbol": "RNR",
-        "latest_price": 156.63,
-        "pe_ratio": 31.64,
+        "latest_price": 156.35,
+        "pe_ratio": 32.65,
         "ttm_eps": 4.9495,
         "dividend": {
             "ttm_rate": 1.32,
@@ -3904,12 +3904,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Casey's General Stores, Inc.",
         "sector": "Retail Trade",
         "symbol": "CASY",
-        "latest_price": 136.7,
-        "pe_ratio": 25.12,
+        "latest_price": 131.74,
+        "pe_ratio": 25.4,
         "ttm_eps": 5.3946,
         "dividend": {
             "ttm_rate": 1.13,
@@ -3920,12 +3920,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Cintas Corp.",
         "sector": "Consumer Services",
         "symbol": "CTAS",
-        "latest_price": 215.6,
-        "pe_ratio": 28.49,
+        "latest_price": 230.92,
+        "pe_ratio": 28.45,
         "ttm_eps": 7.8669,
         "dividend": {
             "ttm_rate": 1.62,
@@ -3936,12 +3936,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "The Sherwin-Williams Co.",
         "sector": "Process Industries",
         "symbol": "SHW",
-        "latest_price": 471.46,
-        "pe_ratio": 40.25,
+        "latest_price": 465.81,
+        "pe_ratio": 38.33,
         "ttm_eps": 11.91,
         "dividend": {
             "ttm_rate": 3.44,
@@ -3952,12 +3952,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Torchmark Corp.",
         "sector": "Finance",
         "symbol": "TMK",
-        "latest_price": 89.31,
-        "pe_ratio": 14.28,
+        "latest_price": 88.2,
+        "pe_ratio": 14.27,
         "ttm_eps": 6.22,
         "dividend": {
             "ttm_rate": 0.64,
@@ -3968,12 +3968,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Quaker Chemical Corp.",
         "sector": "Process Industries",
         "symbol": "KWR",
-        "latest_price": 219.05,
-        "pe_ratio": 49.57,
+        "latest_price": 221,
+        "pe_ratio": 49.49,
         "ttm_eps": 4.4627,
         "dividend": {
             "ttm_rate": 1.465,
@@ -3984,12 +3984,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "W.R. Berkley Corp.",
         "sector": "Finance",
         "symbol": "WRB",
-        "latest_price": 60.97,
-        "pe_ratio": 17.44,
+        "latest_price": 64,
+        "pe_ratio": 18.74,
         "ttm_eps": 3.3722,
         "dividend": {
             "ttm_rate": 0.39333,
@@ -4000,12 +4000,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Atrion Corp.",
         "sector": "Health Technology",
         "symbol": "ATRI",
-        "latest_price": 913.11,
-        "pe_ratio": 49.02,
+        "latest_price": 884,
+        "pe_ratio": 48.1,
         "ttm_eps": 18.4881,
         "dividend": {
             "ttm_rate": 5.1,
@@ -4016,12 +4016,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "West Pharmaceutical Services, Inc.",
         "sector": "Health Technology",
         "symbol": "WST",
-        "latest_price": 119.4,
-        "pe_ratio": 42,
+        "latest_price": 127.73,
+        "pe_ratio": 42.7,
         "ttm_eps": 2.8006,
         "dividend": {
             "ttm_rate": 0.58,
@@ -4032,12 +4032,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Roper Technologies, Inc.",
         "sector": "Producer Manufacturing",
         "symbol": "ROP",
-        "latest_price": 362.29,
-        "pe_ratio": 38.73,
+        "latest_price": 366.5,
+        "pe_ratio": 34.88,
         "ttm_eps": 9.1365,
         "dividend": {
             "ttm_rate": 1.7,
@@ -4048,12 +4048,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "The Ensign Group, Inc.",
         "sector": "Health Services",
         "symbol": "ENSG",
-        "latest_price": 50.72,
-        "pe_ratio": 28.53,
+        "latest_price": 53.57,
+        "pe_ratio": 29.34,
         "ttm_eps": 1.7726,
         "dividend": {
             "ttm_rate": 0.1825,
@@ -4064,12 +4064,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Aaron's, Inc.",
         "sector": "Finance",
         "symbol": "AAN",
-        "latest_price": 55.4,
-        "pe_ratio": 18.89,
+        "latest_price": 60.45,
+        "pe_ratio": 20.27,
         "ttm_eps": 2.85,
         "dividend": {
             "ttm_rate": 0.125,
@@ -4080,12 +4080,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "HEICO Corp.",
         "sector": "Electronic Technology",
         "symbol": "HEI",
-        "latest_price": 104.32,
-        "pe_ratio": 51.9,
+        "latest_price": 109.22,
+        "pe_ratio": 51.42,
         "ttm_eps": 2.0617,
         "dividend": {
             "ttm_rate": 0.10480000114688,
@@ -4096,12 +4096,12 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:25 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "International Speedway Corp.",
         "sector": "Consumer Services",
         "symbol": "ISCA",
-        "latest_price": 44.34,
-        "pe_ratio": 24.54,
+        "latest_price": 44.32,
+        "pe_ratio": 25.51,
         "ttm_eps": 1.7684,
         "dividend": {
             "ttm_rate": null,
@@ -4112,7 +4112,7 @@
         }
     },
     {
-        "last_update": "April 24, 2019 - 2:26 am",
+        "last_update": "May 5, 2019 - 5:41 am",
         "company_name": "Dun & Bradstreet Corporation",
         "sector": "Commercial Services",
         "symbol": "DNB",
