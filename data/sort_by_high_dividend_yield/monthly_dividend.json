@@ -1,11 +1,11 @@
 [
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:36 am",
         "company_name": "Whitestone REIT",
         "sector": "Finance",
         "symbol": "WSR",
-        "latest_price": 13.08,
-        "pe_ratio": 30.61,
+        "latest_price": 12.98,
+        "pe_ratio": 31.69,
         "ttm_eps": 0.4215,
         "dividend": {
             "ttm_rate": 1.14,
@@ -16,12 +16,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "Stellus Capital Investment Corp.",
         "sector": "Finance",
         "symbol": "SCM",
-        "latest_price": 14.46,
-        "pe_ratio": 9.19,
+        "latest_price": 14.8,
+        "pe_ratio": 8.87,
         "ttm_eps": 1.645,
         "dividend": {
             "ttm_rate": 1.3596,
@@ -32,12 +32,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "Gladstone Capital Corp.",
         "sector": "Finance",
         "symbol": "GLAD",
-        "latest_price": 9.54,
-        "pe_ratio": 32.13,
+        "latest_price": 9.6,
+        "pe_ratio": 33.2,
         "ttm_eps": 0.3223,
         "dividend": {
             "ttm_rate": 0.84,
@@ -48,12 +48,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:36 am",
         "company_name": "PennantPark Floating Rate Capital Ltd.",
         "sector": "Finance",
         "symbol": "PFLT",
-        "latest_price": 13.49,
-        "pe_ratio": 14.7,
+        "latest_price": 12.69,
+        "pe_ratio": 12.95,
         "ttm_eps": 0.9429,
         "dividend": {
             "ttm_rate": 1.14,
@@ -64,12 +64,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:36 am",
         "company_name": "Solar Senior Capital Ltd.",
         "sector": "Finance",
         "symbol": "SUNS",
-        "latest_price": 18,
-        "pe_ratio": 20.42,
+        "latest_price": 17.94,
+        "pe_ratio": 17.7,
         "ttm_eps": 0.8612,
         "dividend": {
             "ttm_rate": 1.41,
@@ -80,12 +80,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:36 am",
         "company_name": "Vermilion Energy, Inc.",
         "sector": "Energy Minerals",
         "symbol": "VET",
-        "latest_price": 24.8,
-        "pe_ratio": 18.18,
+        "latest_price": 24.06,
+        "pe_ratio": 17.5,
         "ttm_eps": 1.3457,
         "dividend": {
             "ttm_rate": 2.09475443019093,
@@ -96,12 +96,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:39 am",
+        "last_update": "May 11, 2019 - 2:36 am",
         "company_name": "Apple Hospitality REIT, Inc.",
         "sector": "Finance",
         "symbol": "APLE",
-        "latest_price": 16.58,
-        "pe_ratio": 18.59,
+        "latest_price": 17.04,
+        "pe_ratio": 18.93,
         "ttm_eps": 0.8898,
         "dividend": {
             "ttm_rate": 1.2,
@@ -112,12 +112,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:39 am",
+        "last_update": "May 11, 2019 - 2:36 am",
         "company_name": "San Juan Basin Royalty Trust",
         "sector": "Miscellaneous",
         "symbol": "SJT",
-        "latest_price": 4.55,
-        "pe_ratio": 11.69,
+        "latest_price": 4.27,
+        "pe_ratio": 10.91,
         "ttm_eps": 0.3857,
         "dividend": {
             "ttm_rate": 0.385677,
@@ -128,12 +128,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:39 am",
+        "last_update": "May 11, 2019 - 2:36 am",
         "company_name": "Gladstone Commercial Corp.",
         "sector": "Finance",
         "symbol": "GOOD",
-        "latest_price": 22.39,
-        "pe_ratio": 362.12,
+        "latest_price": 21.84,
+        "pe_ratio": 355.18,
         "ttm_eps": 0.0656,
         "dividend": {
             "ttm_rate": 1.5,
@@ -144,12 +144,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:39 am",
+        "last_update": "May 11, 2019 - 2:36 am",
         "company_name": "Chatham Lodging Trust",
         "sector": "Finance",
         "symbol": "CLDT",
-        "latest_price": 21.04,
-        "pe_ratio": 33.21,
+        "latest_price": 20.42,
+        "pe_ratio": 32.64,
         "ttm_eps": 0.6546,
         "dividend": {
             "ttm_rate": 1.32,
@@ -160,12 +160,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:36 am",
         "company_name": "Sabine Royalty Trust",
         "sector": "Energy Minerals",
         "symbol": "SBR",
-        "latest_price": 47.17,
-        "pe_ratio": 14.06,
+        "latest_price": 49.3,
+        "pe_ratio": 13.56,
         "ttm_eps": 3.4265,
         "dividend": {
             "ttm_rate": 3.34906,
@@ -176,12 +176,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:39 am",
+        "last_update": "May 11, 2019 - 2:36 am",
         "company_name": "Gladstone Investment Corp.",
         "sector": "Finance",
         "symbol": "GAIN",
-        "latest_price": 12.72,
-        "pe_ratio": 4.16,
+        "latest_price": 12.67,
+        "pe_ratio": 4.15,
         "ttm_eps": 3.0875,
         "dividend": {
             "ttm_rate": 0.801,
@@ -192,12 +192,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:39 am",
+        "last_update": "May 11, 2019 - 2:36 am",
         "company_name": "Main Street Capital Corp.",
         "sector": "Finance",
         "symbol": "MAIN",
-        "latest_price": 40.23,
-        "pe_ratio": 14.36,
+        "latest_price": 42.16,
+        "pe_ratio": 15.11,
         "ttm_eps": 2.8058,
         "dividend": {
             "ttm_rate": 2.31,
@@ -208,12 +208,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:39 am",
+        "last_update": "May 11, 2019 - 2:36 am",
         "company_name": "EPR Properties",
         "sector": "Finance",
         "symbol": "EPR",
-        "latest_price": 80.8,
-        "pe_ratio": 21.79,
+        "latest_price": 79.97,
+        "pe_ratio": 21.3,
         "ttm_eps": 3.2656,
         "dividend": {
             "ttm_rate": 4.32,
@@ -224,12 +224,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "LTC Properties, Inc.",
         "sector": "Finance",
         "symbol": "LTC",
-        "latest_price": 47,
-        "pe_ratio": 11.89,
+        "latest_price": 47.44,
+        "pe_ratio": 12.13,
         "ttm_eps": 3.9066,
         "dividend": {
             "ttm_rate": 2.28,
@@ -240,12 +240,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:38 am",
+        "last_update": "May 11, 2019 - 2:35 am",
         "company_name": "STAG Industrial, Inc.",
         "sector": "Finance",
         "symbol": "STAG",
-        "latest_price": 30.93,
-        "pe_ratio": 50.48,
+        "latest_price": 30.34,
+        "pe_ratio": 50.23,
         "ttm_eps": 0.7798,
         "dividend": {
             "ttm_rate": 1.419996,
@@ -256,12 +256,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "Pembina Pipeline Corp.",
         "sector": "Industrial Services",
         "symbol": "PBA",
-        "latest_price": 36.19,
-        "pe_ratio": 21.05,
+        "latest_price": 36.77,
+        "pe_ratio": 21.42,
         "ttm_eps": 1.7616,
         "dividend": {
             "ttm_rate": 1.72837628878564,
@@ -272,12 +272,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "Shaw Communications, Inc.",
         "sector": "Consumer Services",
         "symbol": "SJR",
-        "latest_price": 20.18,
-        "pe_ratio": 30.92,
+        "latest_price": 21.18,
+        "pe_ratio": 31.48,
         "ttm_eps": 0.6597,
         "dividend": {
             "ttm_rate": 0.905634392543257,
@@ -288,11 +288,11 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "Gladstone Land Corp.",
         "sector": "Finance",
         "symbol": "LAND",
-        "latest_price": 13.16,
+        "latest_price": 12.78,
         "pe_ratio": null,
         "ttm_eps": null,
         "dividend": {
@@ -304,12 +304,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "Realty Income Corp.",
         "sector": "Finance",
         "symbol": "O",
-        "latest_price": 72.1,
-        "pe_ratio": 52.57,
+        "latest_price": 71.44,
+        "pe_ratio": 52.1,
         "ttm_eps": 1.26,
         "dividend": {
             "ttm_rate": 2.639,
@@ -320,12 +320,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "Orchid Island Capital, Inc.",
         "sector": "Finance",
         "symbol": "ORC",
-        "latest_price": 6.56,
-        "pe_ratio": -20.84,
+        "latest_price": 6.59,
+        "pe_ratio": -20.28,
         "ttm_eps": -0.848,
         "dividend": {
             "ttm_rate": 1.07,
@@ -336,12 +336,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "Cross Timbers Royalty Trust",
         "sector": "Energy Minerals",
         "symbol": "CRT",
-        "latest_price": 12.51,
-        "pe_ratio": 8.79,
+        "latest_price": 12.86,
+        "pe_ratio": 8.85,
         "ttm_eps": 1.4264,
         "dividend": {
             "ttm_rate": 1.426417,
@@ -352,12 +352,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "AGNC Investment Corp.",
         "sector": "Finance",
         "symbol": "AGNC",
-        "latest_price": 17.98,
-        "pe_ratio": 1495.35,
+        "latest_price": 18.39,
+        "pe_ratio": 1536.75,
         "ttm_eps": 0.5973,
         "dividend": {
             "ttm_rate": 2.16,
@@ -368,12 +368,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "Capitala Finance Corp.",
         "sector": "Finance",
         "symbol": "CPTA",
-        "latest_price": 9,
-        "pe_ratio": -9.12,
+        "latest_price": 9.27,
+        "pe_ratio": -8.89,
         "ttm_eps": -0.9986,
         "dividend": {
             "ttm_rate": 0.9996,
@@ -384,12 +384,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "Global Net Lease, Inc.",
         "sector": "Finance",
         "symbol": "GNL",
-        "latest_price": 20.06,
-        "pe_ratio": 1371.46,
+        "latest_price": 19.2,
+        "pe_ratio": 1415.44,
         "ttm_eps": 0.0141,
         "dividend": {
             "ttm_rate": 2.13,
@@ -400,12 +400,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "Harvest Capital Credit Corp.",
         "sector": "Miscellaneous",
         "symbol": "HCAP",
-        "latest_price": 10.86,
-        "pe_ratio": 13.3,
+        "latest_price": 10.7272,
+        "pe_ratio": 13.46,
         "ttm_eps": 0.7908,
         "dividend": {
             "ttm_rate": 1.1575,
@@ -416,12 +416,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "Prospect Capital Corp.",
         "sector": "Finance",
         "symbol": "PSEC",
-        "latest_price": 7.05,
-        "pe_ratio": 13.85,
+        "latest_price": 6.97,
+        "pe_ratio": 13.89,
         "ttm_eps": 0.4953,
         "dividend": {
             "ttm_rate": 0.72,
@@ -432,12 +432,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "Horizon Technology Finance Corp.",
         "sector": "Miscellaneous",
         "symbol": "HRZN",
-        "latest_price": 12.12,
-        "pe_ratio": 10.5,
+        "latest_price": 12.06,
+        "pe_ratio": 10.45,
         "ttm_eps": 1.1285,
         "dividend": {
             "ttm_rate": 1.2,
@@ -448,12 +448,12 @@
         }
     },
     {
-        "last_update": "May 5, 2019 - 5:40 am",
+        "last_update": "May 11, 2019 - 2:37 am",
         "company_name": "Enerplus Corp.",
         "sector": "Energy Minerals",
         "symbol": "ERF",
-        "latest_price": 8.92,
-        "pe_ratio": 7.38,
+        "latest_price": 9.27,
+        "pe_ratio": 7.72,
         "ttm_eps": 1.1933,
         "dividend": {
             "ttm_rate": 0.092623173879005,
