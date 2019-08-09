@@ -1,178 +1,178 @@
 [
     {
-        "last_update": "July 6, 2019 - 4:05 am",
-        "company_name": "Cincinnati Financial Corp.",
-        "sector": "Finance",
-        "symbol": "CINF",
-        "latest_price": 108.75,
-        "pe_ratio": 17.85,
-        "ttm_eps": 6.2258,
-        "dividend": {
-            "ttm_rate": 2.16,
-            "yield": "2.04%",
-            "next_date": null,
-            "ex_date": "2019-07-01",
-            "payout_ratio": 34.69
-        }
-    },
-    {
-        "last_update": "July 6, 2019 - 4:06 am",
-        "company_name": "3M Co.",
-        "sector": "Producer Manufacturing",
-        "symbol": "MMM",
-        "latest_price": 176,
-        "pe_ratio": 18.32,
-        "ttm_eps": 9.6497,
-        "dividend": {
-            "ttm_rate": 5.64,
-            "yield": "3.19%",
-            "next_date": null,
-            "ex_date": "2019-06-01",
-            "payout_ratio": 58.45
-        }
-    },
-    {
-        "last_update": "July 6, 2019 - 4:06 am",
+        "last_update": "August 9, 2019 - 6:06 am",
         "company_name": "Emerson Electric Co.",
         "sector": "Producer Manufacturing",
         "symbol": "EMR",
-        "latest_price": 65.6,
-        "pe_ratio": 18.51,
-        "ttm_eps": 3.7929,
+        "latest_price": 61.95,
+        "pe_ratio": null,
+        "ttm_eps": 3.5784,
         "dividend": {
-            "ttm_rate": 1.96,
-            "yield": "3.07%",
-            "next_date": null,
-            "ex_date": "2019-05-25",
-            "payout_ratio": 51.68
+            "ttm_rate": 2.014,
+            "yield": "3.23%",
+            "next_date": "2019-08-28",
+            "ex_date": "2019-08-25",
+            "payout_ratio": 56.28
         }
     },
     {
-        "last_update": "July 6, 2019 - 4:05 am",
+        "last_update": "August 9, 2019 - 6:04 am",
+        "company_name": "Cincinnati Financial Corp.",
+        "sector": "Finance",
+        "symbol": "CINF",
+        "latest_price": 114.91,
+        "pe_ratio": 15.04,
+        "ttm_eps": 7.746,
+        "dividend": {
+            "ttm_rate": 2.23,
+            "yield": "2%",
+            "next_date": null,
+            "ex_date": "2019-06-20",
+            "payout_ratio": 28.79
+        }
+    },
+    {
+        "last_update": "August 9, 2019 - 6:03 am",
         "company_name": "Genuine Parts Co.",
         "sector": "Distribution Services",
         "symbol": "GPC",
-        "latest_price": 109.2,
-        "pe_ratio": 19.49,
-        "ttm_eps": 5.51,
+        "latest_price": 96.06,
+        "pe_ratio": 17.18,
+        "ttm_eps": 5.5136,
         "dividend": {
-            "ttm_rate": 2.9974,
-            "yield": "2.82%",
+            "ttm_rate": 3.028,
+            "yield": "3.36%",
             "next_date": null,
-            "ex_date": "2019-06-16",
-            "payout_ratio": 54.4
+            "ex_date": "2019-06-15",
+            "payout_ratio": 54.92
         }
     },
     {
-        "last_update": "July 6, 2019 - 4:06 am",
+        "last_update": "August 9, 2019 - 6:05 am",
+        "company_name": "3M Co.",
+        "sector": "Producer Manufacturing",
+        "symbol": "MMM",
+        "latest_price": 167.47,
+        "pe_ratio": 19.93,
+        "ttm_eps": 8.7306,
+        "dividend": {
+            "ttm_rate": 5.8,
+            "yield": "3.55%",
+            "next_date": "2019-08-22",
+            "ex_date": "2019-08-27",
+            "payout_ratio": 66.43
+        }
+    },
+    {
+        "last_update": "August 9, 2019 - 6:06 am",
         "company_name": "Illinois Tool Works, Inc.",
         "sector": "Producer Manufacturing",
         "symbol": "ITW",
-        "latest_price": 153.33,
-        "pe_ratio": 19.8,
-        "ttm_eps": 7.91,
+        "latest_price": 155.07,
+        "pe_ratio": 20.25,
+        "ttm_eps": 7.6055,
         "dividend": {
-            "ttm_rate": 3.8,
-            "yield": "2.63%",
-            "next_date": null,
-            "ex_date": "2019-07-02",
-            "payout_ratio": 48.04
+            "ttm_rate": 4,
+            "yield": "2.7%",
+            "next_date": "2019-09-30",
+            "ex_date": "2019-09-27",
+            "payout_ratio": 52.59
         }
     },
     {
-        "last_update": "July 6, 2019 - 4:05 am",
+        "last_update": "August 9, 2019 - 6:05 am",
         "company_name": "Johnson & Johnson",
         "sector": "Health Technology",
         "symbol": "JNJ",
-        "latest_price": 145.14,
-        "pe_ratio": 26.3,
-        "ttm_eps": 5.63,
+        "latest_price": 134.73,
+        "pe_ratio": 22.61,
+        "ttm_eps": 6.37,
         "dividend": {
-            "ttm_rate": 3.7,
-            "yield": "2.65%",
-            "next_date": null,
-            "ex_date": "2019-05-27",
-            "payout_ratio": 65.72
+            "ttm_rate": 3.74,
+            "yield": "2.78%",
+            "next_date": "2019-09-05",
+            "ex_date": "2019-09-08",
+            "payout_ratio": 58.71
         }
     },
     {
-        "last_update": "July 6, 2019 - 4:05 am",
-        "company_name": "Procter & Gamble Co.",
-        "sector": "Consumer Non-Durables",
-        "symbol": "PG",
-        "latest_price": 115.49,
-        "pe_ratio": 26.86,
-        "ttm_eps": 4.52,
-        "dividend": {
-            "ttm_rate": 2.9089,
-            "yield": "2.54%",
-            "next_date": null,
-            "ex_date": "2019-04-21",
-            "payout_ratio": 64.36
-        }
-    },
-    {
-        "last_update": "July 6, 2019 - 4:05 am",
-        "company_name": "Colgate-Palmolive Co.",
-        "sector": "Consumer Non-Durables",
-        "symbol": "CL",
-        "latest_price": 76.14,
-        "pe_ratio": 28.25,
-        "ttm_eps": 2.81,
-        "dividend": {
-            "ttm_rate": 1.69,
-            "yield": "2.31%",
-            "next_date": "2019-07-29",
-            "ex_date": "2019-07-18",
-            "payout_ratio": 60.14
-        }
-    },
-    {
-        "last_update": "July 6, 2019 - 4:06 am",
+        "last_update": "August 9, 2019 - 6:06 am",
         "company_name": "Dover Corp.",
         "sector": "Producer Manufacturing",
         "symbol": "DOV",
-        "latest_price": 105.7,
-        "pe_ratio": 28.33,
-        "ttm_eps": 3.8339,
+        "latest_price": 94.77,
+        "pe_ratio": 23.45,
+        "ttm_eps": 4.3197,
         "dividend": {
-            "ttm_rate": 1.99,
-            "yield": "1.86%",
-            "next_date": null,
-            "ex_date": "2019-05-31",
-            "payout_ratio": 51.91
+            "ttm_rate": 1.93,
+            "yield": "2.08%",
+            "next_date": "2019-09-09",
+            "ex_date": "2019-09-01",
+            "payout_ratio": 44.68
         }
     },
     {
-        "last_update": "July 6, 2019 - 4:05 am",
+        "last_update": "August 9, 2019 - 6:04 am",
+        "company_name": "Colgate-Palmolive Co.",
+        "sector": "Consumer Non-Durables",
+        "symbol": "CL",
+        "latest_price": 72.62,
+        "pe_ratio": 28.46,
+        "ttm_eps": 2.6706,
+        "dividend": {
+            "ttm_rate": 1.76,
+            "yield": "2.41%",
+            "next_date": null,
+            "ex_date": "2019-07-26",
+            "payout_ratio": 65.9
+        }
+    },
+    {
+        "last_update": "August 9, 2019 - 6:04 am",
         "company_name": "The Coca-Cola Co.",
         "sector": "Consumer Non-Durables",
         "symbol": "KO",
-        "latest_price": 53.08,
-        "pe_ratio": 33.59,
-        "ttm_eps": 1.5835,
+        "latest_price": 54.2,
+        "pe_ratio": 33.82,
+        "ttm_eps": 1.6828,
         "dividend": {
-            "ttm_rate": 1.61,
-            "yield": "3.03%",
-            "next_date": null,
-            "ex_date": "2019-06-20",
-            "payout_ratio": 101.67
+            "ttm_rate": 1.6,
+            "yield": "3.05%",
+            "next_date": "2019-09-25",
+            "ex_date": "2019-09-26",
+            "payout_ratio": 95.08
         }
     },
     {
-        "last_update": "July 6, 2019 - 4:04 am",
+        "last_update": "August 9, 2019 - 6:03 am",
         "company_name": "Lowe's Cos., Inc.",
         "sector": "Retail Trade",
         "symbol": "LOW",
-        "latest_price": 108.71,
-        "pe_ratio": 36.79,
-        "ttm_eps": 2.9888,
+        "latest_price": 101.43,
+        "pe_ratio": 34.61,
+        "ttm_eps": 3.0517,
         "dividend": {
-            "ttm_rate": 2,
-            "yield": "1.93%",
-            "next_date": "2019-08-01",
-            "ex_date": "2019-08-03",
-            "payout_ratio": 66.92
+            "ttm_rate": 1.96,
+            "yield": "1.99%",
+            "next_date": null,
+            "ex_date": "2019-08-01",
+            "payout_ratio": 64.23
+        }
+    },
+    {
+        "last_update": "August 9, 2019 - 6:04 am",
+        "company_name": "Procter & Gamble Co.",
+        "sector": "Consumer Non-Durables",
+        "symbol": "PG",
+        "latest_price": 119.7,
+        "pe_ratio": 81.81,
+        "ttm_eps": 1.47,
+        "dividend": {
+            "ttm_rate": 2.9221,
+            "yield": "2.51%",
+            "next_date": null,
+            "ex_date": "2019-07-26",
+            "payout_ratio": 198.78
         }
     }
 ]

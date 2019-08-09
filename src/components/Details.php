@@ -23,7 +23,7 @@ class Details extends stdClass
     {
         $details = $this->getDetails($ticker);
 
-        if (!array_key_exists($section, $details)) {
+        if (is_null($details) || !array_key_exists($section, $details)) {
             return null;
         }
 
@@ -34,7 +34,7 @@ class Details extends stdClass
     {
         $section = $this->getSection($ticker, $section);
 
-        if(!array_key_exists($property, $section)){
+        if(is_null($section) || !array_key_exists($property, $section)){
             return null;
         }
 
